@@ -1,0 +1,9 @@
+1. De: Nome do Remetente
+2. Para: Nome do Destinatário
+3. Assunto: Compartilhando frases inspiradoras
+4. Intenção: encorajar, motivar o destinatário
+5. Objetivo: inspirar o destinatário com frases motivacionais
+6. Tom: otimista, positivo, encorajador
+
+EMAIL:
+

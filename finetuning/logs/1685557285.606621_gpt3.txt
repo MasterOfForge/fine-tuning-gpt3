@@ -1,0 +1,28 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+De: 
+Para: 
+Assunto: Apresentar ideias para melhorar a produtividade
+Intenção: Explorar novas ideias para melhorar o nível de produtividade
+Objetivo: Compartilhar sugestões para soluções inovadoras
+Tom: Construtivo, positivo e profissional
+
+E-MAIL:
+
+----------
+
+De: [seu nome] 
+Para: [destinatário] 
+Assunto: Explorar Ideias para Melhorar a Produtividade
+
+Prezado [Destinatário],
+
+Gostaria de propor um momento para explorarmos juntos algumas ideias e oportunidades para aumentar a produtividade da nossa empresa.
+
+A ideia é que possamos pensar e compartilhar sugestões de soluções inovadoras que tragam melhorias reais e impactáveis. O tom desse encontro seria construtivo, positivo e profissional, a fim de consolidarmos um bom ambiente de cooperação entre nós.
+
+Agradeço a disponibilidade para discutir essa questão e espero ansioso eventualmente conhecer as suas sugestões.
+
+Atenciosamente,
+[seu nome]

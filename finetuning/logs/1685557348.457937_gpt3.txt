@@ -1,0 +1,30 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+1. De: Remetente
+2. Para: Destinatário 
+3. Assunto: Mudanças no horário das atividades familiares
+4. Intenção: Notificar sobre as mudanças nos horários das atividades familiares. 
+5. Tom: Cordial e educado. 
+6. Objetivo: Oferecer conhecimento sobre alterações nos horários das atividades familiares.
+
+E-MAIL:
+
+----------
+
+De: Remetente
+Para: Destinatário
+Assunto: Mudanças no horário das atividades familiares
+
+Caro Destinatário,
+
+Como já sabemos, as atividades familiares passarão por algumas alterações e, portanto, mudanças nos horários serão necessárias. Por isso, gostaríamos de fornecer algumas informações sobre como estas mudanças afetam o horário das atividades familiares.
+
+Os horários de muitas atividades de lazer e recreação serão ajustados, e alguns deles poderão começar mais cedo ou mais tarde nos próximos dias. Nós notificaremos previamente quando forem realizados quaisquer ajustes, de modo que todos possam se preparar adequadamente.
+
+Estamos extremamente conscientes da importância destas atividades familiares e também dos horários estabelecidos. Pedimos desculpas pelo inconvénio, mas estamos profundamente interessados ​​em assegurar que todos desfrutem de um divertimento pleno e seguro.
+
+Trabalharemos para servir a vocês o melhor possível, e estamos abertos para qualquer tipo de sugestões ou perguntas.
+
+Atenciosamente,
+ Remetente

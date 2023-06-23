@@ -1,0 +1,9 @@
+DE: Verificação de Satisfação no Trabalho / Iniciativa Para Parabenizar um Colaborador
+PARA: [Colaborador]
+ASSUNTO: Parabéns pelo Trabalho de Excelência
+INTENÇÕES: Elogiar o trabalho de excelência e motivar o colaborador
+OBJETIVO: Reconhecer e valorizar o trabalho do colaborador
+TOM: Reconhecimento e Estímulo
+
+EMAIL:
+

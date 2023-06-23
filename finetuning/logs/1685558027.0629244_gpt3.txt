@@ -1,0 +1,26 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: Você
+PARA: Destinatário
+ASSUNTO: Solicitação de Ajuda
+INTENÇÃO: Receber assistência para concluir uma tarefa
+OBJETIVO: Terminar o projeto
+TOM: Gratidão por qualquer ajuda oferecida
+
+E-MAIL:
+
+----------
+
+Assunto: Solicitação de Ajuda
+
+Prezado(a) [Destinatário],
+
+Estou escrevendo para lhe pedir a gentileza de me ajudar a concluir o projeto que tenho em andamento. A tarefa em questão é [descreva aqui a tarefa], precisando de [descreva aqui o que é necessário para concluir].
+
+[Agradeça aqui, antes de solicitar a ajuda - ex: Estou muito grato(a) por qualquer ajuda que você fornecer]. Por favor, lembre-se que qualquer auxílio de sua parte ficará muito apreciado.
+
+Se você tiver qualquer dúvida, estou à disposição para responder.
+
+Atenciosamente,
+[Você]

@@ -1,0 +1,24 @@
+7f59e5b5-ad6f-4633-bb93-dd8a48b72021
+Dado o seguinte cenário e obedecendo as regras gramaticais do português do Brasil, 
+faça uma lista de tópicos para incluir no email. 
+Os tópicos devem incluir termos como DE, PARA, ASSUNTO, intenções, objetivos, tom e assim por diante. 
+Os tópicos gerados não podem conter erros ortográficos ou de concordância verbal. 
+Seja criativo pois esse é um cenário imaginário!
+
+CENÁRIO: Enviar emails de lembrete para as compras
+
+TÓPICOS:
+
+----------
+
+DE: Equipe de lembretes
+
+PARA: Clientes
+
+ASSUNTO: Lembrete de compras
+
+INTENÇÃO: Recordar os clientes sobre suas compras pendentes
+
+OBJETIVO: Estimular o fechamento de compras e a fidelização de clientes
+
+TOM: Encorajador e receptivo

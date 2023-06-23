@@ -1,0 +1,7 @@
+De:    
+Para: 
+Assunto: Compartilhando documentos importantes 
+Intenção: Oferecer documentos importantes 
+Objeto: Documentos 
+Tom: Solicitação amigável 
+Detalhes: Necessidade de leser os documentos compartilhados

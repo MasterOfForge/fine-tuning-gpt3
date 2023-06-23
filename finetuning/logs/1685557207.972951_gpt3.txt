@@ -1,0 +1,26 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+Assunto: Agendamento de Reuniões
+De: Cliente 
+Para: Representante da empresa
+Intenção: Estabelecer data e horário para a reunião
+Objetivo: Discutir sobre o plano de negócios
+Tom: Profissional, mas amigável
+
+E-MAIL:
+
+----------
+
+Prezado(a) [Representante da empresa],
+
+Eu sou [Cliente], um cliente da sua empresa. Gostaria de agendar uma reunião com o objetivo de discutir o plano de negócios que estou propondo. Por favor, indicar qual data e horário seria mais adequado para você.
+
+Isso seria muito importante para mim, pois eu preciso que você conheça minhas ideias antes da nossa reunião.
+
+Estou à disposição para esclarecer quaisquer dúvidas adicionais que possam surgir.
+
+Aguardando ansiosamente sua resposta e desejando um excelente dia.
+
+Atenciosamente,
+[Cliente]

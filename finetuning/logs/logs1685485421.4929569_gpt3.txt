@@ -1,0 +1,18 @@
+17b43b98-990a-4ca4-b47e-a50e5b6773d9
+Dado o seguinte cenário e obedecendo as regras gramaticais do português do Brasil, 
+faça uma lista de tópicos para incluir no email. 
+Os tópicos devem incluir termos como DE, PARA, ASSUNTO, intenções, objetivos, tom e assim por diante. 
+Os tópicos gerados não podem conter erros ortográficos ou de concordância verbal. 
+
+CENÁRIO: Convite para participar de ações de caridade
+
+TÓPICOS:
+
+----------
+
+De: 
+Para: 
+Assunto: Convite para participar de ações de caridade 
+Intenção: Convidar a participar em atividades de caridade 
+Objetivo: Apoiar pessoas necessitadas e contribuir para o bem-estar comum 
+Tom: Solicitação de participação com o espírito de doação

@@ -1,0 +1,24 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: Nome do remetente 
+
+PARA: Nome do destinatário 
+
+ASSUNTO: Oferecendo ajuda para concluir tarefas 
+
+INTENÇÕES: Demonstrar interesse e disposição para ajudar
+
+OBJETIVO: Oferecer apoio na realização de tarefas 
+
+TOM: Cordial e atencioso
+
+E-MAIL:
+
+----------
+
+Prezado(a), [Nome do destinatário],
+
+Deparei-me com a sua tarefa e gostaria de me prontificar a ajudar com o que for possível. Pode contar comigo para oferecer o melhor suporte e conclusão da tarefa da maneira mais satisfatória possível.
+
+Com uma att, [Nome do remetente].

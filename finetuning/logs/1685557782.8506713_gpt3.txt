@@ -1,0 +1,30 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+De: 
+Para: 
+Assunto: Eventos - Uma oportunidade imperdível
+Intenção: Convite para participação e inscrição em eventos de todo o país
+Objetivo: Promover estes eventos, ajudar na organização e na divulgação
+Tom: Entusiasmado e convidativo
+
+E-MAIL:
+
+----------
+
+De: [seu email]
+Para: [email dos destinatários] 
+Assunto: Eventos - Uma oportunidade imperdível
+ 
+Caros amigos,
+
+Aproveite esta oportunidade imperdível para participar de eventos de todo o país. Desfrute de entretenimento único e inesquecível, descubra novas experiências, aprofunde seus conhecimentos através de palestras, interaja e conecte-se com novas pessoas.
+
+Agora você também pode ajudar a promover eventos, organizá-los e divulgá-los de forma adequada. Você pode participar como palestrante, voluntário, organizador ou por qualquer outro meio. 
+
+Todos os eventos serão divertidos, entusiasmantes e inesquecíveis. Registre-se para ter a oportunidade de participar desta experiência única. Basta acessar o link disponível neste e-mail para garantir a sua inscrição.
+
+Esperamos que você possa aproveitar esta oportunidade e aproveitar o máximo possível destes eventos!
+
+Atenciosamente,
+[seu nome]

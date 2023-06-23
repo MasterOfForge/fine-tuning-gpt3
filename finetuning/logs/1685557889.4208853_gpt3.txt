@@ -1,0 +1,28 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: Empresa 
+PARA: Clientes 
+ASSUNTO: Oferta especial de prêmios 
+INTENÇÃO: Premiar os clientes com serviços e produtos especiais 
+OBJETIVO: Celebrar sua fidelidade e lealdade à nossa empresa 
+TOM: Agradecimento e entusiasmo
+
+E-MAIL:
+
+----------
+
+Caro(a) [Cliente],
+
+É com o maior entusiasmo que compartilhamos essa oferta especial de prêmios com você!
+
+Queremos premiá-lo por sua fidelidade e lealdade à nossa empresa durante todos estes anos. Para celebrar o relacionamento que temos estabelecido, ofereceremos serviços e produtos exclusivos.
+
+Você merece o melhor, e é por isso que queremos garantir que obtenha a melhor experiência e atendimento.
+
+Se você estiver interessado em aproveitar esta oferta limitada, envie-nos uma resposta para que possamos iniciar o processo.
+
+Obrigado por escolher a nossa empresa e por todos os anos de lealdade e confiança. É com este pensamento em mente que apreciamos sua fidelidade e esperamos continuar a servi-lo por anos e anos!
+
+Atenciosamente,
+[Nome da Empresa]

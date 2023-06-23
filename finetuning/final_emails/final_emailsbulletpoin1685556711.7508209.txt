@@ -1,0 +1,11 @@
+1. Para: Investidores
+2. Assunto: Suporte a Investidores
+3. Tom: Solícito 
+4. Objetivo: Oferecer orientação sobre o processo de investimento
+5. Intenção: Apresentar recursos adicionais para otimizar seus investimentos
+
+EMAIL:
+
+if not args.scenario and not args.final:
+        create_scenario()
+        final_prompt()

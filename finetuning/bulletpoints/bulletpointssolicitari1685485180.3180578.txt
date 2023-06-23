@@ -1,0 +1,6 @@
+DE: Nome do remetente 
+PARA: Destinatário 
+ASSUNTO: Solicitação de informações adicionais para o projeto 
+INTENÇÕES: Fornecer uma maior compreensão do projeto
+OBJETIVOS: Obter mais detalhes sobre o projeto para realizar a análise correta dos próximos passos
+TOM: Respeitoso, discreto e formal

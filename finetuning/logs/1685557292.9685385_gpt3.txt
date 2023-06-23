@@ -1,0 +1,32 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: Nome da Empresa 
+
+PARA: Investidores
+
+ASSUNTO: Ofertas especiais 
+
+INTENÇÕES: Apresentar ofertas especiais como meio de incentivar os investidores a investir na empresa.
+
+OBJETIVOS: Demonstrar o retorno financeiro que os investidores terão ao investirem na empresa.
+
+TOM: Incentivo e otimismo.
+
+E-MAIL:
+
+----------
+
+Prezados Investidores, 
+
+A Nome da Empresa está feliz em compartilhar grandes oportunidades de investimento, e convidamos vocês a se unirem a nós.
+
+Ao investirem com a Nome da Empresa, vocês poderão obter um retorno financeiro que afetará positivamente suas carteiras. Estamos orgulhosos de poder oferecer aos nossos investidores ofertas especiais que somarão ao nosso sucesso.
+
+Com a execução de nossa estratégia de investimento, vocês poderão ter calma e segurança com a obtenção de um lucro consideravelmente elevado.
+
+Não percam mais tempo e venham explorar essas magníficas oportunidades para o seu futuro financeiro. Estamos ansiosos por ter vocês como nossos parceiros de investimento.
+
+Atenciosamente, 
+
+Nome da Empresa

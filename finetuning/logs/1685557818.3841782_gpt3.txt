@@ -1,0 +1,30 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: Equipe de lembretes
+
+PARA: Clientes
+
+ASSUNTO: Lembrete de compras
+
+INTENÇÃO: Recordar os clientes sobre suas compras pendentes
+
+OBJETIVO: Estimular o fechamento de compras e a fidelização de clientes
+
+TOM: Encorajador e receptivo
+
+E-MAIL:
+
+----------
+
+Prezado Cliente,
+
+Gostaríamos de lembrá-lo sobre suas compras pendentes. Compreender a satisfação dos nossos clientes é primordial para a nossa empresa, e nós trabalhamos duro para que você possa obter o melhor dos nossos serviços. Não deixe de aproveitar as nossas ofertas especiais que estão disponíveis, pois elas podem te ajudar a poupar dinheiro e a obter um bom serviço.
+
+Nos empenhamos para garantir que você aproveite ao máximo as compras pendentes. Estamos aqui para ajudá-lo de qualquer forma e para responder às suas perguntas e preocupações. Não hesite em contactar a nossa equipe de suporte a qualquer momento. Seguimos o compromisso de garantir a fidelidade de todos os nossos clientes e esperamos que possa experimentar todas as vantagens da nossa empresa.
+
+Aproveite à vontade e não deixe de nos contactar se, de alguma forma, não estiver satisfeito com o serviço que o temos a oferecer.
+
+Comentamos,
+
+Equipe de lembretes

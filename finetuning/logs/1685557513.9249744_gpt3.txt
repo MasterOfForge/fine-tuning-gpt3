@@ -1,0 +1,28 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+•De: 
+•Para: 
+•Assunto: Compartilhar Planos de Viagem em Família
+•Intenção: Planejar a Próxima Férias e Viagem em Família
+•Objetivo: Compartilhar Ideias e Discussões Antecipadas
+•Tom: Incentivar um Ambiente Divertido e Compartilhado
+
+E-MAIL:
+
+----------
+
+Assunto: Planejando Nossas Próximas Férias e Viagem em Família
+
+Querida Família,
+
+Durante este período atípico, tudo que desejamos é normalidade e diversão. Então, pensei que seria uma ótima ideia começar a planejar as nossas próximas férias e viagens em família.
+
+Compartilhar planos e ideias antecipadamente é uma ótima maneira de garantir que todos estejam na mesma vibe e animados para a aventura. Dessa forma todos podem compartilhar o que gostariam de fazer e até mesmo debater as melhores opções permitindo que todos tenham voz ativa na decisão.
+
+Vamos abraçar isso como sendo uma oportunidade para nos divertirmos, relaxar e nos conectar uns com os outros. Let's do it!
+
+Estou ansioso para ouvir de vocês.
+
+Com Amor,  
+Seu [NOME]

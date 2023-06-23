@@ -1,0 +1,26 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+De: Remetente 
+Para: Destinatário 
+Assunto: Agendamento de Reuniões 
+Intenção: Solicitar agendamento de reuniões 
+Objetivo: Estabelecer horários e datas das reuniões 
+Tom: Respeitoso e profissional
+
+E-MAIL:
+
+----------
+
+Prezado(a) [Nome do Destinatário],
+
+Espero que este e-mail o(a) encontre bem.
+
+Eu me chamo [seu nome] e gostaria de solicitar um agendamento de reuniões entre nossos dois departamentos. Nossa intenção é estabelecer horários e datas para as reuniões programadas. 
+
+Será que você consideraria o agendamento de nossas reuniões? Por favor, informe-me assim que puder. 
+
+Agradeço pela compreensão e pelo apoio. 
+
+Com os melhores cumprimentos, 
+[seu nome]

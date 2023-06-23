@@ -1,0 +1,26 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: Remetente
+PARA: Destinatário
+ASSUNTO: Atualizações sobre Investimentos
+INTENÇÃO: Compartilhar as Notícias Recentes sobre Investimentos
+OBJETIVO: Acompanhar as Últimas Tendências em Investimentos
+TOM: Informativo e Professiona
+
+E-MAIL:
+
+----------
+
+Assunto: Atualizações sobre Investimentos
+
+Caro Destinatário,
+
+Como parte dos esforços da nossa empresa para monitorar as últimas tendências em investimentos, gostaríamos de compartilhar algumas notícias recentes com você.
+
+Nosso time de especialistas em investimentos está pesquisando todas as tendências relevantes e fazendo ajustes sempre que necessário. Acreditamos que isso pode representar uma grande oportunidade para o mercado de investimentos.
+
+Desejamos discutir mais sobre investimentos com você em um futuro próximo. Por favor, sinta-se à vontade para nos contatar para quaisquer dúvidas ou consultas.
+
+Atenciosamente,
+Remetente

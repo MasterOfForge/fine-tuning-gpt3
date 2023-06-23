@@ -1,0 +1,30 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: Promoções
+
+PARA: Clientes 
+
+ASSUNTO: Aviso de mudanças nos termos de Promoções
+
+INTENÇÃO: Alertar sobre novas regras e condições das promoções
+
+OBJETIVO: Incentivar os clientes a lerem atentamente os termos de promoções antes de realizarem compras 
+
+TOM: Profissional e formal
+
+E-MAIL:
+
+----------
+
+Olá, 
+
+Gostaríamos de alertar nossos clientes com relação às novas regras e condições para participar de nossas promoções. Por favor, leia atentamente as regras antes de realizar a compra para garantir que está ciente e de acordo com elas.
+
+Caso você tenha alguma dúvida, basta entrar em contato conosco. Estamos prontos para lhe ajudar.
+
+Muito obrigado e Boas compras!
+
+Atenciosamente,
+
+Equipe de Promoções

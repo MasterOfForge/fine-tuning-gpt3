@@ -1,0 +1,33 @@
+De: 
+Para: 
+Assunto: Compartilhamento de Vídeos Divertidos
+Intenção: Estimular a diversão e o bem-estar
+Objetivo: Compartilhar conteúdo divertido entre pessoas 
+Tom: Alegre e Inspirador
+
+EMAIL:
+
+# gpt completion - START
+
+# Olá <NOME>,
+
+# Seu dia está ao seu dispor e a vontade de aproveitá-lo é grande! O que você pretende fazer?
+
+# Bem, no meu caso, gosto de compartilhar coisas divertidas, para estimular o bem-estar das pessoas ao meu redor. Então, decidi começar a enviar vídeos engraçados para meus amigos nas redes sociais.
+
+# Sinceramente, as pessoas não entendem o porquê eu faço isso. Por isso, decidi criar este email para explicar melhor como tudo funciona.
+
+# Como sabemos, os vídeos são a melhor forma de compartilhar emoções de maneira divertida. É preciso escolher o vídeo certo para que as pessoas realmente apreciem. Essa escolha de vídeos depende do nível de compreensão de cada um dos destinatários. 
+
+# Eu gosto de reunir vídeos de todos os tipos em um só. Isso faz com que, ao mesmo tempo, o conteúdo possa ser compreendido por todas as pessoas. Por exemplo, consigo reunir vídeos engraçados, momentos especiais, palavras de amizade e outros que se encaixam nessa categoria.
+
+# Além dos vídeos, gosto de incentivar as pessoas a fazer algo novo e divertido. Por exemplo, podemos chamar a atenção sobre alguns fatos interessantes, estimular a reflexão e tentar descobrir novos métodos de diversão.
+
+# É isso que eu busco com este email, somente mostrar que é possível compartilhar algo de forma divertida, para estimular a boa disposição na vida das pessoas.
+
+# Espero que gostem dessa nova experiência.
+
+# Atenciosamente, 
+# <NOME>
+
+# gpt completion - END

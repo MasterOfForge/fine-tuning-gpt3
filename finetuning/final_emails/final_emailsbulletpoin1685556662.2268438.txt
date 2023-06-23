@@ -1,0 +1,9 @@
+DE: Cliente X
+PARA: Família
+ASSUNTO: Atualizações sobre familiares
+INTENÇÕES: Compartilhar notícias sobre familiares
+OBJETIVO: Manter os familiares informados sobre o que está acontecendo
+TOM: Amigável e informal
+
+EMAIL:
+

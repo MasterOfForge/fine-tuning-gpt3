@@ -1,0 +1,6 @@
+DE: Solicitante 
+PARA: Destinatário 
+ASSUNTO: Solicitação de Ajuda 
+INTENÇÕES: Solicitar colaboração no desenvolvimento de uma tarefa 
+OBJETIVOS: Concluir a tarefa dentro do prazo estabelecido 
+TOM: Polido e profissional

@@ -1,0 +1,11 @@
+DE: Promoções
+
+PARA: Clientes 
+
+ASSUNTO: Aviso de mudanças nos termos de Promoções
+
+INTENÇÃO: Alertar sobre novas regras e condições das promoções
+
+OBJETIVO: Incentivar os clientes a lerem atentamente os termos de promoções antes de realizarem compras 
+
+TOM: Profissional e formal

@@ -1,0 +1,26 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: Representante de Suporte 
+PARA: Clientes 
+ASSUNTO: Oferecer Suporte para Dúvidas 
+INTENÇÃO: Prestar Assistência e Resolver Dúvidas 
+OBJETIVO: Garantir a Experiência de Uso dos Produtos e Serviços 
+TOM: Atencioso, Responsivo e Prestativo
+
+E-MAIL:
+
+----------
+
+Prezados clientes,
+
+Esperamos que os produtos e serviços que fornecemos lhe proporcionem total satisfação.
+
+Pensando nisso, estamos oferecendo nossa equipe de suporte que está à sua disposição para responder suas dúvidas e garantir que seus produtos e serviços ofereçam a melhor experiência.
+
+Para contatar a nossa equipe de suporte, por favor, escreva para o e-mail: support@empresax.com.br, que responderemos assim que possível. Caso precisar de assistência imediata, fique à vontade para ligar para o número de telefone (000) 0000-0000.
+
+Agradecemos a oportunidade de oferecer assistência e prestar serviço.
+
+Atenciosamente,
+Equipe de Suporte da Empresa X

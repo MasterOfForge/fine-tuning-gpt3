@@ -1,0 +1,25 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+Assunto: Novas Promoções! 
+De: Equipe de Marketing 
+Para: Clientes e Prospects 
+Intenção: Compartilhar informações sobre lançamentos e promoções 
+Objetivos: Fomentar interesse nos novos produtos e serviços 
+Tom: Alegre e entusiasmado
+
+E-MAIL:
+
+----------
+
+Olá!
+
+A Equipe de Marketing está entusiasmada em compartilhar com você as nossas novidades e promoções! 
+
+Nós acabamos de lançar nossos novos produtos e serviços e estamos oferecendo incríveis descontos para aqueles que comprarem agora! 
+
+Aproveite essa ótima oportunidade para adquirir os nossos novos produtos e serviços a preços muito acessíveis. 
+
+Não perca essa, aproveite! 
+
+A Equipe de Marketing

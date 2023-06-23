@@ -1,0 +1,9 @@
+DE: Empresa 
+PARA: Nossos clientes
+ASSUNTO: Novas promoções 
+Intenção: Compartilhar informações sobre novas e excitantes promoções 
+Objetivo: Oferecer incentivos para que os clientes usufruam dos nossos serviços 
+Tom: Convite para aproveitar nossas oportunidades de economia
+
+EMAIL:
+

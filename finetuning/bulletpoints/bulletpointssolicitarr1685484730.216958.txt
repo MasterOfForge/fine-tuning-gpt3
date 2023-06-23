@@ -1,0 +1,8 @@
+1. De: Nome do Solicitante 
+2. Para: Destinatários da solicitação
+3. Assunto: Solicitação de Recursos para Projeto
+4. Intenção: Explicar os motivos para a solicitação de recursos
+5. Objetivo: Convencer os destinatários a apoiar o projeto
+6. Tom: Profissional e Enfático 
+7. Dúvidas: Oferecer esclarecimentos e informações adicionais 
+8. Finalização: Agradecimento e conclusão da mensagem

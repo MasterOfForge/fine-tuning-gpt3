@@ -1,0 +1,31 @@
+1. DE: Solicitante de ajuda
+2. PARA: Equipe Técnica 
+3. ASSUNTO: Solicitação de Ajuda Técnica
+4. INTENÇÃO: Solicitar orientação para resolver problemas técnicos  
+5. OBJETIVO: Obter ajuda rápida e profissional para solucionar problemas  
+6. TOM: Solicitação educada e respeitosa
+7. DETALHES: Fornecer informações específicas sobre o problema  
+8. EXPECTATIVA: Esperar um retorno o mais rápido possível
+
+EMAIL:
+
+"""
+from termcolor import colored
+import argparse
+import sys
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--name', required=True, help='name of the program you want to create')
+parser.add_argument('--color', required=True, help='color of the program you want to create')
+args = parser.parse_args()
+
+name = args.name
+
+try:
+    color = getattr(termcolor, args.color)
+except AttributeError:
+    print(colored("Error: '{}' is not a valid color".format(args.color), 'red'))
+    sys.exit(1)
+
+print(colored("Creating program '{}' with color '{}'".format(name, color.name), color))
+"""

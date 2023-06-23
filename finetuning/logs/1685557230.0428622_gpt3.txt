@@ -1,0 +1,27 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+- Assunto: Solicitação de Reunião
+- De: Nome do Remetente
+- Para: Nome(s) do(s) Destinatário(s)
+- Objeto: Agendamento de Reunião
+- Intenções: Explicar detalhes da reunião e estabelecer data e horário
+- Finalidade: Discutir assuntos pertinentes e definir responsabilidades para atingir os objetivos propostos
+- Tom: Explícito e respeitoso
+
+E-MAIL:
+
+----------
+
+Assunto: Solicitação de Reunião
+
+Prezados(as),
+
+Gostaria de solicitar uma reunião para discutir e definir detalhes importantes para nossa empresa alcançar os resultados propostos. Estou comprometido a oferecer todas as informações necessárias para que os objetivos sejam alcançados e responsabilidades estabelecidas.
+
+Estou acordando para estabelecermos uma data e horário para que possamos discutir os assuntos pertinentes. Estarei à disposição para responder e/ou sanar alguma dúvida que possa surgir.
+
+Agradeço desde já a atenção e espero pelo contato prontamente.
+
+Sinceramente,
+(Nome do Remetente)

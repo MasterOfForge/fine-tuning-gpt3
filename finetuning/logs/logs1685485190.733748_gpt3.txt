@@ -1,0 +1,32 @@
+9df2f240-b6a2-43b5-99f0-28592f28922a
+Dado o seguinte cenário e obedecendo as regras gramaticais do português do Brasil, 
+faça uma lista de tópicos para incluir no email. 
+Os tópicos devem incluir termos como DE, PARA, ASSUNTO, intenções, objetivos, tom e assim por diante. 
+Os tópicos gerados não podem conter erros ortográficos ou de concordância verbal. 
+Seja criativo pois esse é um cenário imaginário!
+
+CENÁRIO: Solicitar aumento de salário pro chefe
+
+TÓPICOS:
+
+----------
+
+De: Nome do Empregado 
+
+Para: Nome do Chefe
+
+Assunto: Solicitação de aumento salarial
+
+Intenção: Apresentar argumentos para o aumento salarial solicitado.
+
+Objetivo: Argumentar a necessidade de um aumento salarial justo.
+
+Tom: Respeito e profissionalismo. 
+
+Finalidade: Demonstrar qual o valor que o empregado trará para a empresa com esse aumento salarial. 
+
+Pontos Claramente Expressos: Necessidade de um aumento salarial justo e expressar porque o empregado é ideal para essa vaga.
+
+Diferenciais: Identificar quais as habilidades, conhecimentos, competências e experiência com que o empregado pode contribuir para a empresa. 
+
+Demonstração de Gratidão: Mostrar gratidão pelo tempo dedicado do chefe em ler a solicitação.

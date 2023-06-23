@@ -1,0 +1,28 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: Você 
+PARA: Seus colegas 
+ASSUNTO: Convocando para almoçar
+INTENÇAO: Reunir a equipe para almoçar 
+OBJETIVO: Compartilhar um momento em conjunto 
+TOM: Amigável e divertido
+
+E-MAIL:
+
+----------
+
+Olá Colegas,
+
+Espero que estejam todos bem! 
+
+Proporcionar momentos de interação no ambiente de trabalho é tão importante quanto produzir resultados. Por isso, quero convidar todos vocês para almoçarmos juntos na próxima semana.
+
+Vamos compartilhar um momento divertido e amigável! Aproveitaremos para relaxar e recarregar as energias para continuarmos nossas tarefas da melhor forma possível.
+
+Por favor, me digam a hora e o local que funcionam melhor para todos vocês, para que eu possa reservar e organizar o almoço. 
+
+Estou ansioso para passarmos um ótimo momento em conjunto.
+
+Att, 
+[Seu nome]

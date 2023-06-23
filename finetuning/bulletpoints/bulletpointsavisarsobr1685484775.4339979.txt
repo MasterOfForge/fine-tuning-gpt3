@@ -1,0 +1,6 @@
+De: 
+Para: 
+Assunto: Alerta Sobre Atrasos em Projetos
+Intenções: Notificar Sobre Atrasos no Cronograma
+Objetivos: Esclarecer Razões/Implicações dos Atrasos
+Tom: Solicitar Compreensão dos Percalços Passados e Orientar para Comprometer-se com os Futuros Prazos

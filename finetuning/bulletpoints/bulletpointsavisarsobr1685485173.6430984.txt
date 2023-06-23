@@ -1,0 +1,11 @@
+De: Diretoria da Empresa
+
+Para: Funcionários
+
+Assunto: Alerta sobre alterações nas políticas da empresa
+
+Intenção: Informar aos funcionários sobre as novas regras
+
+Objeto: Detalhamento das alterações nas políticas
+
+Tom: Profissional e implacável

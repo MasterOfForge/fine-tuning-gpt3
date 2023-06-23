@@ -1,0 +1,14 @@
+DE: Equipe de lembretes
+
+PARA: Clientes
+
+ASSUNTO: Lembrete de compras
+
+INTENÇÃO: Recordar os clientes sobre suas compras pendentes
+
+OBJETIVO: Estimular o fechamento de compras e a fidelização de clientes
+
+TOM: Encorajador e receptivo
+
+EMAIL:
+

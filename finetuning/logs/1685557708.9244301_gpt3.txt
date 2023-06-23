@@ -1,0 +1,29 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+De: 
+Para: 
+Assunto: Compartilhando informações relevantes
+Intenção: Apresentar informações relacionadas a assuntos importantes
+Objeto: Discutir sobre questões essenciais
+Tom: Falar das informações de modo objetivo e claro
+
+E-MAIL:
+
+----------
+
+De: Nome Aqui
+Para: Nome Aqui
+Assunto: Compartilhando informações importantes
+
+Caro Nome Aqui,
+
+Estou escrevendo para compartilhar informações relevantes sobre assuntos importantes. Gostaria de discutir com você algumas questões essenciais para entender melhor o que está acontecendo.
+
+Eu gostaria de ir direto ao ponto e falar sobre as informações em uma maneira direta e clara. Enviarei mais detalhes na mensagem seguinte para que você possa ter uma compreensão ainda maior.
+
+Espero ansiosamente a sua resposta.
+
+Atenciosamente,
+
+Nome Aqui

@@ -1,0 +1,26 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+De: Empresa X 
+Para: Funcionários 
+Assunto: Mudanças na rotina da empresa 
+Intenção: Informar sobre as alterações
+Objetivo: Encorajar a aceitação das mudanças
+Tom: Encorajador
+
+E-MAIL:
+
+----------
+
+Prezados Funcionários,
+
+É com grande entusiasmo que anunciamos as mudanças na rotina da empresa. Nossas pesquisas nos mostram que essas atualizações nos ajudarão a alcançar melhores resultados.
+
+Nós apreciamos os esforços de cada funcionário e a versatilidade que vocês mostram para se adaptar às mudanças organizacionais. Por isso, pedimos que todos encarem essas alterações como uma oportunidade de crescimento profissional e pessoal. 
+
+Se encontrarem qualquer dificuldade durante esse processo, informem imediatamente aos membros da equipe gerencial, estaremos sempre prontos para ajudar.
+
+Esperamos que vocês dêem o seu melhor com essas mudanças!
+
+Obrigado,
+Empresa X

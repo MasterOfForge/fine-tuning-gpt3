@@ -1,0 +1,28 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE:  Nome do remetente
+PARA: Destinatários
+ASSUNTO: Fotos do nosso encontro
+
+INTENÇÕES: Compartilhar momentos especiais com nossa família
+OBJETIVOS: Relembrar os dias felizes que passamos juntos
+TOM: Ameaçador
+
+E-MAIL:
+
+----------
+
+Olá Família,
+
+Espero que este e-mail encontre todos bem e em segurança!
+
+Acabo de lembrar dos momentos mágicos que passamos juntos no nosso encontro. É sempre tão bom se reencontrar para compartilhar risos, histórias e experiências.
+
+Aproveitando essa oportunidade, quero enviar as fotos que tirei no encontro para que possamos compartilhar esses momentos especiais para sempre. Como quero que todos os membros da família consigam ter acesso e usufruir delas, peço a gentileza de que a partilhem com aqueles que não estavam presentes.
+
+Conto com a ajuda de todos para contribuir para a energia maravilhosa que nos rodeia e construir mais momentos felizes, que em breve vamos poder retomar.
+
+Aproveitem!
+
+[Nome do remetente]

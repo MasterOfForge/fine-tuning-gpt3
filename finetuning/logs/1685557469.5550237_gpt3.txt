@@ -1,0 +1,27 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: Empresa X
+PARA: Usuários do projeto
+ASSUNTO: Atualizações no projeto
+INTENÇÃO: Manter os usuários informados sobre as últimas atualizações 
+OBJETIVOS: Incluir detalhes sobre as novas alterações e melhorias relevantes 
+
+TOM: Profissional, educado e informativo
+
+E-MAIL:
+
+----------
+
+Caros usuários do Projeto,
+
+Estamos contentes em informar que fizemos recentemente alterações significativas no Projeto, que esperamos tragam uma verdadeira melhoria à nossa oferta. Incluímos alguns recursos novos que esperamos tornem a experiência do usuário mais produtiva e agradável.
+
+Estamos também muito felizes em compartilhar o próximo conjunto de atualizações e melhorias que vamos anunciar brevemente.
+
+Estamos comprometidos em fornecer a melhor solução de software para nossos clientes e vamos anunciar as novas atualizações assim que estiverem disponíveis.
+
+Se você tiver alguma dúvida, fique à vontade para entrar em contato.
+
+Atenciosamente,
+Empresa X

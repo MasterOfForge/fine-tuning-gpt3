@@ -1,0 +1,30 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+1. DE: Solicitante de ajuda
+2. PARA: Equipe Técnica 
+3. ASSUNTO: Solicitação de Ajuda Técnica
+4. INTENÇÃO: Solicitar orientação para resolver problemas técnicos  
+5. OBJETIVO: Obter ajuda rápida e profissional para solucionar problemas  
+6. TOM: Solicitação educada e respeitosa
+7. DETALHES: Fornecer informações específicas sobre o problema  
+8. EXPECTATIVA: Esperar um retorno o mais rápido possível
+
+E-MAIL:
+
+----------
+
+Assunto: Solicitação de Ajuda Técnica
+
+Para a Equipe Técnica,
+
+Estou escrevendo para solicitar ajuda técnica. Tenho enfrentado alguns problemas e gostaria de receber orientação para encontrar a melhor solução.
+
+Eu gostaria de receber algum retorno o mais rápido possível. A seguir, forneço alguns detalhes a respeito do meu problema e espero obter uma ajuda rápida e profissional eficaz.
+
+Agradeço o seu tempo e atenção.
+
+[Inserir detalhes dos problemas aqui] 
+
+Atenciosamente,
+[Seu nome]

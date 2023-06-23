@@ -1,0 +1,24 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: Empresa 
+PARA: Interessados na empresa 
+ASSUNTO: Compartilhando notícias sobre a empresa 
+INTENÇÃO: Expandir o conhecimento sobre a empresa 
+OBJETIVOS: Fornecer informações relevantes e atuais para interessados na empresa 
+TOM: Neutro, profissional
+
+E-MAIL:
+
+----------
+
+Caro interessado,
+
+Queremos agradecer o seu interesse e compartilhar as últimas notícias sobre a empresa. Estamos crescendo e lançando inovações para o mercado de nosso setor, como também agregamos produtos e serviços novos. Queríamos compartilhar isso com você, para que tenha conhecimento dos nossos objetivos no mercado e das nossas principais realizações.
+
+Caso deseje saber mais sobre a empresa, estamos à disposição para responder perguntas, entender criticas construtivas e informar, de maneira neutra e profissional, o que nos diferencia no mercado.
+
+Agradecemos seu interesse e ficamos à disposição para informações adicionais.
+
+Atenciosamente,
+Nome da Empresa.

@@ -1,0 +1,19 @@
+1ceff900-adfd-4242-a2b7-230d2284549d
+Dado o seguinte cenário e obedecendo as regras gramaticais do português do Brasil, 
+faça uma lista de tópicos para incluir no email. 
+Os tópicos devem incluir termos como DE, PARA, ASSUNTO, intenções, objetivos, tom e assim por diante. 
+Os tópicos gerados não podem conter erros ortográficos ou de concordância verbal. 
+Seja criativo pois esse é um cenário imaginário!
+
+CENÁRIO: Celebrar aniversários e outras datas importantes da família
+
+TÓPICOS:
+
+----------
+
+De: Membro(s) da família 
+Para: Toda a família 
+Assunto: Celebrar aniversários e outras datas importantes da família 
+Intenção: Aproveitar o momento e celebrar e unir a família 
+Objetivos: Compartilhar boas notícias e recordações; criar lembranças inesquecíveis; promover a interação entre os membros. 
+Tom: Ál35feto, entusiasmado, acolhedor, alegre.

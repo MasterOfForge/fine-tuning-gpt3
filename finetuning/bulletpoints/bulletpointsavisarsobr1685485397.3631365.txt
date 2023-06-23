@@ -1,0 +1,6 @@
+1. Assunto: Novo conteúdo disponível no site 
+2. De: Administrador do site 
+3. Para: Usuários do site 
+4. Intuito: Informar sobre os novos conteúdos disponíveis 
+5. Objetivo: Que os usuários aproveitem todos os conteúdos oferecidos 
+6. Tom: Cromático e entusiástico

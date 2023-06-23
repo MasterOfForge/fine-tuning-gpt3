@@ -1,0 +1,26 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+De: 
+Para: 
+Assunto: Compartilhando artigos interessantes
+Intenção: Divulgar conhecimento sobre diversos assuntos 
+Objeto: Compartilhar artigos interessantes 
+Tom: Amigável e informativo
+
+E-MAIL:
+
+----------
+
+Caro [Nome do destinatário], 
+
+Espero que você esteja bem.
+
+Vejo que você sempre está atualizado e em busca de conhecimento. Por isso, achei interessante compartilhar alguns artigos que li recentemente e que acho que você também vai gostar. 
+
+Por exemplo, temos o artigo "Como se tornar um empreendedor bem-sucedido" que fornece uma visão clara sobre como iniciar um negócio e obter sucesso. Além disso, há também o artigo "Os mistérios da astronomia: desvendando os códigos do universo", que destaca as grandes descobertas relacionadas aos mais diversos mistérios astronômicos.
+
+Espero que goste dos artigos e que possa expandir seu conhecimento sobre diversos assuntos. Lembre-se de compartilhar suas opiniões ou insights ao ler a matéria. Apreciarei muito a sua participação! 
+
+Um abraço, 
+[Seu nome]

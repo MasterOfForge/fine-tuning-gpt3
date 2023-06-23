@@ -1,0 +1,28 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+De: 
+Para: 
+Assunto: Alerta Sobre Atrasos em Projetos
+Intenções: Notificar Sobre Atrasos no Cronograma
+Objetivos: Esclarecer Razões/Implicações dos Atrasos
+Tom: Solicitar Compreensão dos Percalços Passados e Orientar para Comprometer-se com os Futuros Prazos
+
+E-MAIL:
+
+----------
+
+De:  <endereço de e-mail do remetente>
+Para:  <endereço de e-mail do destinatário>
+Assunto: Alerta sobre atrasos nos projetos
+
+Caro(a) <Nome do destinatário>, 
+
+Esta mensagem é para dar-lhe uma notificação sobre os recentes atrasos no cronograma dos projetos. Faremos o possível para esclarecer as razões e as implicações desses atrasos.
+
+Estes atrasos são inesperados mas precisam ser aceitos com compreensão. Faremos tudo o que for possível para alcançar estes prazos, e nós solicitamos o seu total comprometimento para os futuros ciclos.
+
+Se tiver alguma dúvida sobre a situação, por favor não hesite em contactar-nos specificamente para esta questão.
+
+Muito obrigado, 
+<Nome do remetente>

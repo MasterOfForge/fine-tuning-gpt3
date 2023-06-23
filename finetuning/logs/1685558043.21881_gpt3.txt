@@ -1,0 +1,35 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: 
+
+PARA:
+
+ASSUNTO: Solicitar feedback sobre o projeto
+
+INTENÇÃO: Receber contribuições valiosas para o melhoramento do projeto
+
+OBJETIVOS: Obter opiniões sinceras sobre o projeto e usar as sugestões para realizar melhorias necessárias 
+
+COMPORTAMENTO ESPERADO: Manter a discrição, ser construtivo e assertivo na conduta 
+
+TOM: Sutilmente persuasivo para obter mais contribuições e respostas
+
+E-MAIL:
+
+----------
+
+Assunto: Pedimos sua opinião sobre o projeto
+
+Prezado(a),
+
+Seguimos trabalhando arduamente para melhorar cada vez mais nosso projeto e, para isso, precisamos da sua contribuição.
+
+Gostaríamos de convidá-lo(a) a enviar suas sugestões e críticas sinceras sobre as questões técnicas e outros aspectos relacionados ao projeto.
+
+Pedimos que todas as respostas sejam feitas com o maior nível de discrição possível, sendo construtivas e objetivas. 
+
+Agradecemos sua colaboração desde já e nos comprometemos em processar suas sugestões e as usar para melhorias no projeto.
+
+Atenciosamente, 
+[Nome da Equipa de Desenvolvimento]

@@ -1,0 +1,33 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: ...
+
+PARA: ...
+
+ASSUNTO: Compartilhando notícias sobre nossa família
+
+INTENÇÃO: Manter a família unida através de compartilhamento de boas notícias 
+
+OBJETIVO: Estimular o interesse e envolvimento da família em atividades e informações locais
+
+TOM: Alegria e entusiasmo
+
+E-MAIL:
+
+----------
+
+Caros [FAMÍLIA],
+
+Espero que vocês estejam bem! Gostaria de compartilhar algumas notícias com vocês sobre a nossa família e o que estamos fazendo para nos mantê-la unida.
+
+Recentemente, estivemos envolvidos em projetos em nosso próprio bairro. Estamos tentando aumentar a participação da família em eventos locais e compartilhar notícias e informações relevantes. Adoraríamos que todos fossem parte desse movimento e nos ajudassem a espalhar notícias sobre nossa família.
+
+Estamos também mantendo a tradição de reunir os membros da família em eventos familiares. Estamos ansiosos para compartilhar a alegria desses momentos.
+
+Gostaríamos de estimular a participação de todos na vida e no progresso de nossa família. Espero que vocês sejam parte desse crescimento.
+
+Vamos todos manter nossa união e nosso envolvimento em nossa comunidade. Estou ansioso para ouvir suas notícias e opiniões.
+
+Com alegria e entusiasmo,
+[SEU NOME]

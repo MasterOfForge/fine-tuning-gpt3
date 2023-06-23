@@ -1,0 +1,17 @@
+DE: Você
+
+PARA: Seus pais
+
+ASSUNTO: Pedido de ajuda com tarefas domésticas
+
+INTENÇÃO:
+Solicitar ajuda com tarefas domésticas
+
+OBJETIVO:
+Melhorar a qualidade de vida ao ter mais tempo livre
+
+TOM: 
+Respeito, grato e saudável
+
+EMAIL:
+

@@ -1,0 +1,26 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: Nome do emissor
+PARA: Nome do destinatário
+ASSUNTO: Convite para atividades de lazer
+INTENÇÃO: Oferecer uma oportunidade para o destinatário desfrutar de uma experiência divertida.
+OBJETIVO: Convidar o destinatário para participar de atividades de lazer.
+TOM: Amigável e entusiasmado.
+
+E-MAIL:
+
+----------
+
+Olá [Nome do Destinatário],
+
+Espero que tudo esteja ótimo com você!
+
+Estou escrevendo para lhe convidar para participar de uma atividade de lazer muito divertida que estamos organizando. [Descreva aqui brevemente a atividade]. Será um ótimo modo de relaxar e desfrutar do restante do dia.
+
+Esperamos vê-lo lá!
+
+Estou à disposição para qualquer dúvida que possa surgir.
+
+Abraços,
+[Nome do Emissor]

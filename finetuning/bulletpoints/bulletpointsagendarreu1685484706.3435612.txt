@@ -1,0 +1,6 @@
+Assunto: Agendamento de Reuniões
+De: Cliente 
+Para: Representante da empresa
+Intenção: Estabelecer data e horário para a reunião
+Objetivo: Discutir sobre o plano de negócios
+Tom: Profissional, mas amigável

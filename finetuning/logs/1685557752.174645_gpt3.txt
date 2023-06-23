@@ -1,0 +1,27 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+1. DE: John e Mary Smith 
+2. PARA: Todos os membros da família Smith 
+3. ASSUNTO: Convite para reunião familiar 
+4. OBJETIVO: Reunir todos os membros da família para uma ocasião especial 
+5. LOCAL: Residência dos Smith, Endereço XXX 
+6. DATA: 18 de janeiro de 2020 
+7. HORÁRIO: 19:00 hrs 
+8. INTENÇÃO: Passar um tempo em família e se divertir 
+9. TOM: Caloroso e acolhedor
+
+E-MAIL:
+
+----------
+
+Prezados membros da Família Smith,
+
+Estamos 1 elimitados para convidá-los para uma reunião em família. Pensando em juntar todos nós para uma ocasião especial, reservamos a data de 18 de janeiro de 2020 a partir das 19:00 hrs, na residência dos Smith, localizada no endereço XXX.
+
+Durante a reunião, queremos passar um tempo em família e nos divertir juntos. A reunião terá um clima acolhedor e caloroso e contamos com a presença de todos para que possamos aproveitar ao máximo nosso tempo juntos.
+
+Aguardamos ansiosamente por todos.
+
+Com afeto, 
+John e Mary Smith.

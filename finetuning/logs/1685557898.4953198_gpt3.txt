@@ -1,0 +1,29 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+De: Seu Nome 
+Para: Destinatário 
+Assunto: Sugestões de Uso para os Produtos 
+Intenções: Compartilhamento de Ideias e Visão de Uso 
+Objetivos: Persuasão para Maximizar o Uso dos Produtos 
+Tom: Convite para Utilização e Compartilhamento de Ideias 
+Texto do Email: Explicação detalhada das sugestões de uso para os produtos 
+Imagens/Vídeos: Inclusão de imagens ou vídeos que demonstrem como utilizar os produtos 
+Anexos: Arquivos em documento adjuntos com sugestões adicionais para os produtos
+
+E-MAIL:
+
+----------
+
+Olá [Destinatário],
+
+Esperamos que você esteja tendo uma ótima semana! Esta mensagem é para compartilhar algumas ideias e visões resultantes do uso dos nossos produtos.
+
+Queremos te convidar a utilizar e compartilhar suas próprias ideias e formas de uso para maximizar o potencial destes produtos. Incluímos algumas imagens e vídeos abaixo que demonstram como utilizar os produtos.
+
+Para ajudar ainda mais, anexamos alguns arquivos de documentos à mensagem. Contém sugestões adicionais para os produtos.
+
+Esperamos que estas informações ajudem você a tirar o máximo proveito dos nossos produtos.
+
+Sinceramente, 
+[Seu Nome]

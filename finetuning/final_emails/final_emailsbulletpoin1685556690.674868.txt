@@ -1,0 +1,9 @@
+DE: Remetente
+PARA: Destinatário
+ASSUNTO: Atualizações sobre Investimentos
+INTENÇÃO: Compartilhar as Notícias Recentes sobre Investimentos
+OBJETIVO: Acompanhar as Últimas Tendências em Investimentos
+TOM: Informativo e Professiona
+
+EMAIL:
+

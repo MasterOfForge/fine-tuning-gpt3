@@ -1,0 +1,6 @@
+De: Remetente 
+Para: Destinatário 
+Assunto: Agendamento de Reuniões 
+Intenção: Solicitar agendamento de reuniões 
+Objetivo: Estabelecer horários e datas das reuniões 
+Tom: Respeitoso e profissional

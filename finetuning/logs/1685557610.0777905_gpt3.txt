@@ -1,0 +1,32 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+1. De: 
+2. Para: 
+3. Assunto: Compartilhando conteúdos informativos sobre a nossa empresa
+4. Intenção: Promover o conhecimento da nossa empresa entre os funcionários e stakeholders 
+5. Objetivo: Estimular o interesse dos funcionários e stakeholders na empresa
+6. Tom: Informativo
+
+E-MAIL:
+
+----------
+
+De: Nome da empresa < email >
+Para: Todos os funcionários e stakeholders 
+Assunto: Compartilhando conteúdos informativos sobre a nossa empresa
+
+Prezados, 
+
+Estamos aqui para promover o conhecimento da nossa empresa! Sabemos que é importante informar nossos funcionários e stakeholders de todas as atividades relacionadas à empresa e conteúdos relevantes. 
+
+Estamos aqui para estimular o interesse de todos na empresa, motivando a participação de todos. Por isso, estamos compartilhando conteúdos informativos que oferecerão insights, rumo à transformação digital e novos modelos de negócios.
+
+A medida que partilhamos conteúdos que estão de acordo com o nosso enfoque e objetivos, damos oportunidade a todos para ampliar seu conhecimento e contribuir para a nossa organização.
+
+O nosso objetivo é fornecer informações úteis que contribuam para o nosso crescimento interno, como parte da nossa estratégia global.
+
+Este e-mail tem o objetivo de informar, e ficamos à disposição para qualquer dúvida. Estamos ansiosos para que vocês conheçam mais a nossa empresa.
+
+Atenciosamente, 
+Nome da empresa

@@ -1,0 +1,24 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: 
+PARA: 
+ASSUNTO: Ideias para momentos divertidos com a família 
+INTENÇÃO: Compartilhar experiências divertidas para toda a família
+OBJETIVO: Incentivar a união e a partilha de momentos agradáveis entre familiares
+TOM: Alegre e animado
+
+E-MAIL:
+
+----------
+
+Caro(a) [Nome],
+
+Todos já sabemos o quanto é importante passar tempo com a família. É aí que nos alegramos e partilhamos momentos que nos unem e nos ensinam ao longo do caminho. Com o intuito de incentivar essa união, gostaríamos de oferecer algumas sugestões de momentos divertidos que toda a família pode desfrutar.
+
+Algumas ideias simples incluem jogos de tabuleiro, jogos de cartas divertidos, assistir a um filme ou série no mesmo ambiente relaxante criativo ou sair para fazer um passeio divertido. Você também pode chinocar tanto para crianças quanto para adultos, como se reunir e ouvir uma história incrivelmente inspiradora ou contar piadas divertidas.
+
+Esperamos que este e-mail incentive a partilha de momentos alegres e divertidos com seus entes queridos!
+
+Com os melhores cumprimentos,
+[Seu Nome]

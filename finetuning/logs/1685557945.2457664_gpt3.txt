@@ -1,0 +1,28 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: Verificação de Satisfação no Trabalho / Iniciativa Para Parabenizar um Colaborador
+PARA: [Colaborador]
+ASSUNTO: Parabéns pelo Trabalho de Excelência
+INTENÇÕES: Elogiar o trabalho de excelência e motivar o colaborador
+OBJETIVO: Reconhecer e valorizar o trabalho do colaborador
+TOM: Reconhecimento e Estímulo
+
+E-MAIL:
+
+----------
+
+Assunto: Parabéns pelo Trabalho de Excelência
+
+Prezado(a) [Colaborador],
+
+Estamos aqui para lhe parabenizar pelo trabalho de excelência e motivar a sua contribuição cada vez mais.
+
+Sua diligente dedicação ao trabalho tem sido fundamental para o crescimento do nosso negócio, e queremos reconhecer e valorizar o seu empenho destacado.
+
+Deixamos aqui nossa sincera gratidão e apreço por seu esforço e determinação nesta iniciativa para aprimorar ainda mais todo o nosso objetivo comum.
+
+Obrigado por deixar sua contribuição e nos permitir compartilhar momentos de sucesso.
+
+Atenciosamente,
+[Nome da Empresa]

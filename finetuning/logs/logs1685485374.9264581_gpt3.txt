@@ -1,0 +1,23 @@
+9c6228bd-613f-4b6e-82e2-505a1c954356
+Dado o seguinte cenário e obedecendo as regras gramaticais do português do Brasil, 
+faça uma lista de tópicos para incluir no email. 
+Os tópicos devem incluir termos como DE, PARA, ASSUNTO, intenções, objetivos, tom e assim por diante. 
+Os tópicos gerados não podem conter erros ortográficos ou de concordância verbal. 
+
+CENÁRIO: Avisar sobre mudanças nos termos de promoções
+
+TÓPICOS:
+
+----------
+
+DE: Promoções
+
+PARA: Clientes 
+
+ASSUNTO: Aviso de mudanças nos termos de Promoções
+
+INTENÇÃO: Alertar sobre novas regras e condições das promoções
+
+OBJETIVO: Incentivar os clientes a lerem atentamente os termos de promoções antes de realizarem compras 
+
+TOM: Profissional e formal

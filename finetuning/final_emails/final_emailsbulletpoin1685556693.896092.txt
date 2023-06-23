@@ -1,0 +1,9 @@
+DE: Nome do emissor
+PARA: Nome do destinatário
+ASSUNTO: Convite para atividades de lazer
+INTENÇÃO: Oferecer uma oportunidade para o destinatário desfrutar de uma experiência divertida.
+OBJETIVO: Convidar o destinatário para participar de atividades de lazer.
+TOM: Amigável e entusiasmado.
+
+EMAIL:
+

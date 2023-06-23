@@ -1,0 +1,11 @@
+1. Assunto: Comunicado sobre mudança de prazos
+2. De: Equipe de Gerentes
+3. Para: Todos os Colaboradores
+4. Intenção: Aviso de mudança de prazos
+5. Objetivo: Informar sobre o novo cronograma de prazos
+6. Tom: Suave e educado
+
+EMAIL:
+
+else:
+        print('Please specify a parameter')

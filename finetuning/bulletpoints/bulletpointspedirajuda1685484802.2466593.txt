@@ -1,0 +1,6 @@
+DE: Nome do remetente do email 
+PARA: Nome(s) da(s) pessoa(s) para quem se dirige o email 
+ASSUNTO: Solicitação de Ajuda para Organizar Evento Familiar 
+INTENÇÕES: Oferecer uma descrição dos detalhes do evento e dos motivos pelos quais a ajuda do destinatário é necessária 
+OBJETIVOS: Explicar de maneira clara quais tarefas precisam ser realizadas antes do evento 
+TOM: Educado e respetuoso

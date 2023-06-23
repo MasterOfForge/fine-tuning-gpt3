@@ -1,0 +1,28 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+De: [Nome/Empresa] 
+Para: [Destinatário] 
+Assunto: Oferta de cupom de desconto 
+Intenção: Apresentar o cupom de desconto como um agrado para os clientes 
+Objetivos: Encorajar as compras dos clientes com o desconto 
+Tom: Amigável e positivo
+
+E-MAIL:
+
+----------
+
+Caro [Destinatário],
+
+Esperamos que você esteja se divertindo aproveitando ao máximo esse período!
+
+Como forma de nos agradecer pela sua fidelidade, gostaríamos de oferecer um cupom de desconto exclusivo que pode aplicar em suas futuras compras. Com este cupom, você pode obter um 20% de desconto na compra de qualquer produto de nosso site!
+
+Usar o cupom é muito fácil. Basta digitar o código recebido aqui durante o processo de verificação. Se você tiver alguma dúvida, basta nos enviar um e-mail e nossa equipe de atendimento ao cliente estará feliz em te ajudar!
+
+Esperamos que isso o encoraje a continuar explorando o melhor que temos a oferecer em nosso site.
+
+Obrigado por sua fidelidade! 
+
+Atenciosamente, 
+[Nome/Empresa]

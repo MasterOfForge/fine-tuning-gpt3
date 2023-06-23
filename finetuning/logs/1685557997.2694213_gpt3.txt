@@ -1,0 +1,26 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+De: Nome do Solicitante
+Para: Nome do chefe
+Assunto: Solicitação de Aumento de Salário
+Intenção: Demonstração de mérito e solicitação de aumento de salário
+Objetivo: Falar sobre os motivos que comprovam o mérito necessário para o aumento de salário
+Tom: educado, respeitoso e profissional
+
+E-MAIL:
+
+----------
+
+Caro [Nome do chefe],
+
+Gostaria de lhe pedir um momento para falar sobre minhas contribuições à empresa e meu desempenho no trabalho. Tenho trabalhado com dedicação e empenho há [número] anos, cumprindo todos os meus deveres e sendo confiável.
+
+Durante o meu tempo aqui, obtive resultados excelentes nas minhas responsabilidades e me esforcei para contribuir de forma positiva para a companhia. Por esses motivos, acredito que serei merecedor de um aumento de salário.
+
+Espero que considere meu pedido e que possamos discutir essa solicitação em um ambiente de respeito e profissionalismo. Se houver qualquer dúvida sobre meu desempenho, estou à disposição para oferecer maiores informações.
+
+Aguardo sua resposta.
+
+Atenciosamente,
+[Nome do Solicitante]

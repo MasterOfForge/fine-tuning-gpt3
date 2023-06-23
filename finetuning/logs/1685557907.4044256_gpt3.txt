@@ -1,0 +1,31 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+Assunto: Oferecer suporte para promoções
+
+De: [Remetente] 
+
+Para: [Destinatário]
+
+Intenção: Apresentar uma oferta de suporte para promover seu negócio de forma eficiente
+
+Objetivo: Oferecer soluções que permitam otimizar os serviços relacionados às promoções
+
+Tom: Profissional, informativo e objetivo
+
+E-MAIL:
+
+----------
+
+Prezado [Destinatário], 
+
+Somos especialistas em proporcionar o melhor suporte para as promoções de seu negócio. Estamos oferecendo soluções que permitam otimizar e aprimorar os serviços relacionados às promoções.
+
+Nosso serviço foi desenvolvido para ajudar você criar uma experiência única para seus usuários, permitindo a execução de sua estratégia de acordo com os recursos disponíveis.
+
+Se você estiver interessado em obter mais informações sobre nossa oferta de suporte para promoções, ficaria feliz em discutir ainda mais como podemos ajudar seu negócio a crescer.
+
+Agradecemos por sua consideração  e estamos à disposição para responder quaisquer dúvidas que possa ter.
+
+Atenciosamente,
+[Remetente]

@@ -1,0 +1,9 @@
+- De: Nome do Remetente
+  - Para: Nome do Destinatário
+  - Assunto: Solicitação de Informações sobre Investimentos
+  - Intenção: Solicitar informações sobre os melhores investimentos relacionados ao mercado financeiro
+  - Objetivo: Obter conhecimento para avaliar as melhores opções de investimento
+  - Tom: Solicitação amigável e profissional
+
+EMAIL:
+

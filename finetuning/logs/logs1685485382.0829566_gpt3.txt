@@ -1,0 +1,30 @@
+d365bee8-a8f2-4611-aa41-92a72ed29ca3
+Dado o seguinte cenário e obedecendo as regras gramaticais do português do Brasil, 
+faça uma lista de tópicos para incluir no email. 
+Os tópicos devem incluir termos como DE, PARA, ASSUNTO, intenções, objetivos, tom e assim por diante. 
+Os tópicos gerados não podem conter erros ortográficos ou de concordância verbal. 
+
+CENÁRIO: Motivos diversos, seja criativo:
+
+TÓPICOS:
+
+----------
+
+DE:
+PARA: 
+ASSUNTO: 
+INTENÇÃO:
+OBJETIVO:
+TOM: 
+
+MOTIVOS:
+  1. Discutir possíveis soluções para o problema identificado.
+  2. Compartilhar as recentes descobertas sobre a questão.
+  3. Apresentar novos pontos de vista e opiniões.
+  4. Estabelecer um plano de ação para encontrar soluções.
+  5. Otimizar os processos já estabelecidos.
+  6. Ganhar uma compreensão mais profunda da situação.
+  7. Aproveitar todo o potencial do quadro de recursos humanos.
+  8. Resolver o desafio de forma conjunta.
+  9. Melhorar a comunicação entre as partes interessadas.
+  10. Expansão de visão além dos limites.

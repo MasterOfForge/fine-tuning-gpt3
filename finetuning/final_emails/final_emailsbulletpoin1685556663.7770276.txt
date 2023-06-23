@@ -1,0 +1,14 @@
+DE: Nome do remetente
+
+PARA: Nome do destinatário
+
+ASSUNTO: Atualizações de projetos
+
+INTENÇÃO: Compartilhar as principais atualizações dos projetos
+
+OBJETIVO: Manter o destinatário informado e envolvido nos projetos
+
+TOM: Encorajador e otimista
+
+EMAIL:
+

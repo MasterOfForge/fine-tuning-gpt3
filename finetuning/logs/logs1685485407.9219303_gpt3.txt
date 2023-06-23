@@ -1,0 +1,18 @@
+ff0c6a55-0617-4576-ac2d-07740314a5fb
+Dado o seguinte cenário e obedecendo as regras gramaticais do português do Brasil, 
+faça uma lista de tópicos para incluir no email. 
+Os tópicos devem incluir termos como DE, PARA, ASSUNTO, intenções, objetivos, tom e assim por diante. 
+Os tópicos gerados não podem conter erros ortográficos ou de concordância verbal. 
+
+CENÁRIO: Enviar desejos de felicidades
+
+TÓPICOS:
+
+----------
+
+De: Nome do remetente 
+Para: Destinatário 
+Assunto: Desejos de Férias Alegres 
+Intenção: Oferecer vontade de alegria ao destinatário 
+Objetivo: Compartilhar sentimento positivo e afetuoso 
+Tom: Simpático e caloroso

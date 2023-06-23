@@ -1,0 +1,21 @@
+50385ab0-a301-4597-9d34-e03d7537402d
+Dado o seguinte cenário e obedecendo as regras gramaticais do português do Brasil, 
+faça uma lista de tópicos para incluir no email. 
+Os tópicos devem incluir termos como DE, PARA, ASSUNTO, intenções, objetivos, tom e assim por diante. 
+Os tópicos gerados não podem conter erros ortográficos ou de concordância verbal. 
+Seja criativo pois esse é um cenário imaginário!
+
+CENÁRIO: Solicitar ajuda com problemas técnicos
+
+TÓPICOS:
+
+----------
+
+1. DE: Solicitante de ajuda
+2. PARA: Equipe Técnica 
+3. ASSUNTO: Solicitação de Ajuda Técnica
+4. INTENÇÃO: Solicitar orientação para resolver problemas técnicos  
+5. OBJETIVO: Obter ajuda rápida e profissional para solucionar problemas  
+6. TOM: Solicitação educada e respeitosa
+7. DETALHES: Fornecer informações específicas sobre o problema  
+8. EXPECTATIVA: Esperar um retorno o mais rápido possível

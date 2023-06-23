@@ -1,0 +1,19 @@
+529f8df3-7f4c-44fd-a852-21805adce4fe
+Dado o seguinte cenário e obedecendo as regras gramaticais do português do Brasil, 
+faça uma lista de tópicos para incluir no email. 
+Os tópicos devem incluir termos como DE, PARA, ASSUNTO, intenções, objetivos, tom e assim por diante. 
+Os tópicos gerados não podem conter erros ortográficos ou de concordância verbal. 
+Seja criativo pois esse é um cenário imaginário!
+
+CENÁRIO: Convite para atividades de lazer
+
+TÓPICOS:
+
+----------
+
+DE: Nome do emissor
+PARA: Nome do destinatário
+ASSUNTO: Convite para atividades de lazer
+INTENÇÃO: Oferecer uma oportunidade para o destinatário desfrutar de uma experiência divertida.
+OBJETIVO: Convidar o destinatário para participar de atividades de lazer.
+TOM: Amigável e entusiasmado.

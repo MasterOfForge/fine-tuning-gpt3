@@ -1,0 +1,37 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: Você
+
+PARA: Seus pais
+
+ASSUNTO: Pedido de ajuda com tarefas domésticas
+
+INTENÇÃO:
+Solicitar ajuda com tarefas domésticas
+
+OBJETIVO:
+Melhorar a qualidade de vida ao ter mais tempo livre
+
+TOM: 
+Respeito, grato e saudável
+
+E-MAIL:
+
+----------
+
+Caros Pais,
+
+Espero que estejam bem.
+
+Eu gostaria de pedir a sua ajuda com algumas tarefas domésticas. Há alguns meses venho tendo muito trabalho extra com a faculdade e isso me impedia de realizar alguns afazeres do dia-a-dia de forma satisfatória.
+
+Sei que já estamos todos muitos ocupados, mas acredito que, com uma ajuda mútua, podemos melhorar nossa qualidade de vida, usufruindo de mais tempo livre.
+
+Por favor, deixem-me saber o que posso fazer para ajudar; espero que possamos desenvolver uma solução que ofereça benefícios recíprocos para todos nós.
+
+Agradeço desde já a sua atenção e compreensão.
+
+Com carinho,
+
+[Seu nome]

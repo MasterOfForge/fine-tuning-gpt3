@@ -1,0 +1,11 @@
+1. De: Remetente
+2. Para: Destinatário 
+3. Assunto: Mudanças no horário das atividades familiares
+4. Intenção: Notificar sobre as mudanças nos horários das atividades familiares. 
+5. Tom: Cordial e educado. 
+6. Objetivo: Oferecer conhecimento sobre alterações nos horários das atividades familiares.
+
+EMAIL:
+
+else:
+        parser.print_help()

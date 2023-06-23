@@ -1,0 +1,25 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: Gerente Geral da Empresa 
+PARA: Todos os Funcionários
+ASSUNTO: Alterações nas Políticas da Empresa
+INTENÇÃO: Comunicar sobre as alterações nas políticas 
+OBJETIVO: Explorar as novas políticas
+TOM: Informar com clareza e profissionalismo
+
+E-MAIL:
+
+----------
+
+Para: Todos os Funcionários 
+Assunto: Alterações nas Políticas da Empresa 
+
+Caros/as trabalhadores/as, 
+
+Estamos trazendo à sua atenção alterações significativas nas políticas da empresa. Estas alterações têm como objetivo melhorar e modernizar nossos processos internos para tornar a empresa ainda mais eficiente. Verifique este e-mail com atenção para explorar as novas políticas. 
+
+Por favor, sinta-se à vontade para entrar em contato, se tiver alguma dúvida ou questão sobre as alterações. 
+
+Atenciosamente, 
+Gerente Geral da Empresa

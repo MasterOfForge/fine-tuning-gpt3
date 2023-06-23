@@ -1,0 +1,24 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: 
+PARA: 
+ASSUNTO: Convite para atividades de lazer
+INTENÇÃO: Compartilhar o momento de lazer 
+OBJETIVO: Incentivar a diversão e o descanso
+TOM: Alegre e animado
+
+E-MAIL:
+
+----------
+
+Prezado(a),
+
+É com muito entusiasmo que venho convidar você para participar de algumas atividades divertidas e de lazer, as quais terão como propósito incentivar o descanso! Quero compartilhar esse momento agradável e alegre com você!
+
+Venha para uma sessão divertida e saudável comigo. Se você aceitar o desafio, tenho certeza que não se arrependerá.
+
+Se precisar de mais alguma informação sobre o evento, fique à vontade para entrar em contato.
+
+Abraços,
+[Nome]

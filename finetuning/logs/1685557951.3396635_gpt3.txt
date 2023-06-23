@@ -1,0 +1,22 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: você
+PARA: o colega
+ASSUNTO: Como elogiar o trabalho de um colega
+INTENÇÃO: Reconhecer o trabalho do colega
+OBJETIVO: Oferecer um elogio sincero
+TONALIDADE: Amigável
+
+E-MAIL:
+
+----------
+
+Olá [Colega],
+
+Gostaria de te parabenizar pela excelente atuação na semana passada! O trabalho que realizou foi incrível e vimos o resultado de todos os seus esforços. Estou muito impressionado com o seu trabalho e dedicação à causa e você é um exemplo para todos nós.
+
+Mais uma vez, parabéns por todo o seu trabalho excepcional e obrigado por ser um(a) grande colega.
+
+Atenciosamente,
+[Seu Nome]

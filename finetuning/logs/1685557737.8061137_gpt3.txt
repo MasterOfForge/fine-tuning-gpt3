@@ -1,0 +1,29 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+1. Assunto: Convite para almoçar 
+2. De: Remetente 
+3. Para: Colegas
+4. Intenção: Juntar-se para almoço 
+5. Objeto: Compartilhar almoço em grupo 
+6. Estilo: Casual 
+7. Momento: Final de semana 
+8. Data: Data específica 
+9. Local: Local apropriado 
+10. Finalidade: Interação social
+
+E-MAIL:
+
+----------
+
+Assunto: Vamos juntar-nos para almoçar!
+
+Caros colegas, 
+
+Gostaria de convidá-los para um almoço casual no fim de semana em data específica! Vamos nos reunir para compartilhar um momento de interação social em um local apropriado. 
+
+Favor considerar a proposta e me informar sua disponibilidade? 
+
+Sempre à disposição,
+
+[Remetente]

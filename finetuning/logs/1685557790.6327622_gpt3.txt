@@ -1,0 +1,27 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: 
+PARA: 
+ASSUNTO: Anúncio de Eventos
+TOM: Agradável
+INTENÇÕES: Convite para participação
+OBJETIVO: Promoção de eventos
+DESTAQUE: Principais características dos eventos
+
+E-MAIL:
+
+----------
+
+Caro [Nome],
+
+Gostaríamos de convidá-lo para os nossos próximos eventos. Estamos empenhados em promover eventos diversificados e interessantes e esperamos que considere participar.
+
+Nossos eventos incluem atividades que vão de palestras a eventos culturais. A principal característica de nossos eventos é a oportunidade de conhecer pessoas de diferentes áreas de interesse e trocar experiências, oferecendo a cada participante uma experiência única. Nossos eventos também são um ótimo lugar para conhecer novos talentos, ampliar sua rede de contatos e fazer novos amigos.
+
+Como sempre, reuniões ao ar livre são bem-vindas e nossos eventos ao ar livre proporcionam às pessoas a chance de aproveitar a beleza da natureza.
+
+Estamos ansiosos para ter o senhor aqui para que esteja presente durante nossas atividades.
+
+Com os melhores cumprimentos,
+[Nome]

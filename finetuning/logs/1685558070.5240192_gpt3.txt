@@ -1,0 +1,26 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+De: Nome do Remetente
+Para: Nome do Destinatário
+Assunto: Solicitação de Informações Adicionais para Projeto
+Intenção: Gostariamos de coletar mais informações sobre o projeto
+Objetivo: Fornecer uma descrição detalhada dos itens solicitados
+Tom: Solicitação educada e amigável
+
+E-MAIL:
+
+----------
+
+Prezado(a) [Nome do Destinatário],
+
+Eu gostaria de começar agradecendo pela oportunidade de trabalharmos juntos no projeto.
+
+Nesse momento, gostaríamos de coletar mais algumas informações para fornecer uma descrição detalhada dos itens solicitados. Por favor, veja se tem algum material adicional que possa nos ajudar a compartilhar.
+
+Nós somos muito apreciativos pelo seu tempo e apoio nesse projeto. Se você precisar de qualquer informação adicional ou desejar conversar sobre isso, não hesite em me contatar.
+
+Agradecemos antecipadamente a sua colaboração.
+
+Atenciosamente,
+[Nome do Remetente]

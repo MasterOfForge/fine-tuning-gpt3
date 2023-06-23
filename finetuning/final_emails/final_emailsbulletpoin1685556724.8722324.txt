@@ -1,0 +1,9 @@
+DE: Solicitante 
+PARA: Equipe Técnica
+ASSUNTO: Solicitação de Auxílio Técnico 
+INTENÇÃO: Solicitar ajuda para solução de problemas técnicos 
+OBJETIVO: Identificar e solucionar o problema com eficiência 
+TOM: Profissional e educado
+
+EMAIL:
+

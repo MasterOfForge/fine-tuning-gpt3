@@ -1,0 +1,22 @@
+f5351f85-caa0-4885-b1da-302154f9ccab
+Dado o seguinte cenário e obedecendo as regras gramaticais do português do Brasil, 
+faça uma lista de tópicos para incluir no email. 
+Os tópicos devem incluir termos como DE, PARA, ASSUNTO, intenções, objetivos, tom e assim por diante. 
+Os tópicos gerados não podem conter erros ortográficos ou de concordância verbal. 
+Seja criativo pois esse é um cenário imaginário!
+
+CENÁRIO: Oferecer sugestões de uso para os produtos
+
+TÓPICOS:
+
+----------
+
+De: Seu Nome 
+Para: Destinatário 
+Assunto: Sugestões de Uso para os Produtos 
+Intenções: Compartilhamento de Ideias e Visão de Uso 
+Objetivos: Persuasão para Maximizar o Uso dos Produtos 
+Tom: Convite para Utilização e Compartilhamento de Ideias 
+Texto do Email: Explicação detalhada das sugestões de uso para os produtos 
+Imagens/Vídeos: Inclusão de imagens ou vídeos que demonstrem como utilizar os produtos 
+Anexos: Arquivos em documento adjuntos com sugestões adicionais para os produtos

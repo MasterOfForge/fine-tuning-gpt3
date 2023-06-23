@@ -1,0 +1,17 @@
+4e17973a-a8b8-4dd3-8676-9bbae5ad92ba
+Dado o seguinte cenário e obedecendo as regras gramaticais do português do Brasil, 
+faça uma lista de tópicos para incluir no email. 
+Os tópicos devem incluir termos como DE, PARA, ASSUNTO, intenções, objetivos, tom e assim por diante. 
+Os tópicos gerados não podem conter erros ortográficos ou de concordância verbal. 
+
+CENÁRIO: Oferecer suporte para investidores
+
+TÓPICOS:
+
+----------
+
+1. Para: Investidores
+2. Assunto: Suporte a Investidores
+3. Tom: Solícito 
+4. Objetivo: Oferecer orientação sobre o processo de investimento
+5. Intenção: Apresentar recursos adicionais para otimizar seus investimentos

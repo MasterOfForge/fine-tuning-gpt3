@@ -1,0 +1,19 @@
+a7771e95-bf73-4f39-b6ca-20adb946d592
+Dado o seguinte cenário e obedecendo as regras gramaticais do português do Brasil, 
+faça uma lista de tópicos para incluir no email. 
+Os tópicos devem incluir termos como DE, PARA, ASSUNTO, intenções, objetivos, tom e assim por diante. 
+Os tópicos gerados não podem conter erros ortográficos ou de concordância verbal. 
+Seja criativo pois esse é um cenário imaginário!
+
+CENÁRIO: Avisar sobre mudanças na rotina da empresa
+
+TÓPICOS:
+
+----------
+
+• De: Direção da Empresa 
+• Para: Todos os colaboradores 
+• Assunto: Alterações na rotina da empresa 
+• Intenção: Informar sobre mudanças na rotina da empresa 
+• Objetivo: Esclarecer possíveis dúvidas e adaptações 
+• Tom: Solícito e Respeitoso.

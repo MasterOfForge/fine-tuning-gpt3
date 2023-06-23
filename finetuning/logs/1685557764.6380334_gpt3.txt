@@ -1,0 +1,24 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+De: Organizador da reunião
+Para: Família
+Assunto: Convite para reunião da família
+Intenção: Reunir a família para comemorar evento importante
+Objetivos: Promover a interação entre os membros da família,strengthememos os laços familiares
+Tom: Alegre e positivo
+
+E-MAIL:
+
+----------
+
+Prezada Família,
+
+Estamos felizes em convidá-los para uma reunião especial da família. Esta reunião tem como objetivo comemorar um evento importante e promover a interação entre os membros da família e reforçar os laços familiares.
+
+Esperamos que todos possam estar presentes para realizarmos esta reunião cheia de alegria e positividade. Essa é uma oportunidade única de passarmos alguns momentos juntos. O local e o dia serão anunciados posteriormente.
+
+Contamos com sua presença.
+
+Atenciosamente,
+Organizador da Reunião.

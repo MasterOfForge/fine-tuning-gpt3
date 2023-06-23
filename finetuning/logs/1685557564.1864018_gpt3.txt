@@ -1,0 +1,28 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+De: Nome do Remetente
+Para: Participantes do Encontro Familiar
+Assunto: Compartilhamento de Fotos do Encontro Familiar
+Propósito: Promover a visualização, arquivamento e compartilhamento das fotos do encontro. 
+Intenção: Incentivar a interação entre os familiares, além de fortalecer o vínculo afetivo. 
+Tom: Alegre e animado.
+
+E-MAIL:
+
+----------
+
+Prezados Familiares,
+
+Espero que este e-mail os encontre bem! Espero que todos se divirtam em nosso Encontro Familiar.
+
+Queremos manter o bom momento que passamos juntos para sempre, por isso, estou encaminhando a todos o link de um compartilhamento público de fotos do encontro.
+
+Assim, poderemos revisitar as memórias e compartilhamentos a qualquer momento. Será um excelente meio para que continuemos a interagir quando nos afastarmos, e que o nosso vínculo familiar cada vez mais forte.
+
+Fiquem tranquilos que nós só faremos uso das fotos que todos derem permissão para o uso compartilhado.
+
+Aproveitem cada segundo deste momento! 
+
+Um grande abraço,
+Nome do Remetente

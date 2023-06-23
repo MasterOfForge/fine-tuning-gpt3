@@ -1,0 +1,28 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+De:    
+Para: 
+Assunto: Compartilhando documentos importantes 
+Intenção: Oferecer documentos importantes 
+Objeto: Documentos 
+Tom: Solicitação amigável 
+Detalhes: Necessidade de leser os documentos compartilhados
+
+E-MAIL:
+
+----------
+
+De: 
+Para: 
+Assunto: Compartilhando documentos importantes
+
+Prezado(a), 
+
+Gostaria de compartilhar uns documentos importantes com você para sua análise. Estou iniciando a busca por novas soluções para nossa equipe recém-criada e acredito que esses documentos fornecerão mais clareza sobre o tema. 
+
+Espero que você consiga ler estes documentos adequadamente. Se precisar de mais informações, por favor, não hesite em me contatar. 
+
+Atenciosamente, 
+
+[Seu nome]

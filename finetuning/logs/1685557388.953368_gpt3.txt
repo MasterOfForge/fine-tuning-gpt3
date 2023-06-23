@@ -1,0 +1,26 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+• De: Responsável pelo projeto 
+• Para: Time envolvido no projeto 
+• Assunto: Aviso de atrasos no projeto 
+• Intenção: Compartilhar informações relevantes 
+• Objetivos: Alertar sobre atrasos, estabelecer o plano de ação, garantir transparência 
+• Tom: Solidariedade na resolução das dificuldades e foco na cooperação entre os envolvidos
+
+E-MAIL:
+
+----------
+
+Prezados membros do time,
+
+Agradecemos por participar deste projeto e por contribuir para seu sucesso. Como todos sabemos, a situação atual tem criado muitos desafios e incertezas para todos nós, impactando muitos projetos.
+
+Infelizmente, este projeto não é exceção. Estamos com atrasos consideráveis e é importante compartilhar este fato com vocês para que juntos possamos encontrar uma solução.
+
+Gostaria de conversar melhor sobre isso, para que possamos trocar conhecimento, estabelecer o plano de ação e garantir a transparência de todos os envolvidos. Vamos juntos conseguir encontrar uma solução.
+
+Obrigado pela contribuição de cada um de vocês e que possamos todos trabalhar em conjunto para fazer deste projeto um sucesso.
+
+Atenciosamente,
+[Nome do responsável pelo projeto]

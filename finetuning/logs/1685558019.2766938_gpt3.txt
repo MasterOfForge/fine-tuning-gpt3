@@ -1,0 +1,38 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+De: Nome do Empregado 
+
+Para: Nome do Chefe
+
+Assunto: Solicitação de aumento salarial
+
+Intenção: Apresentar argumentos para o aumento salarial solicitado.
+
+Objetivo: Argumentar a necessidade de um aumento salarial justo.
+
+Tom: Respeito e profissionalismo. 
+
+Finalidade: Demonstrar qual o valor que o empregado trará para a empresa com esse aumento salarial. 
+
+Pontos Claramente Expressos: Necessidade de um aumento salarial justo e expressar porque o empregado é ideal para essa vaga.
+
+Diferenciais: Identificar quais as habilidades, conhecimentos, competências e experiência com que o empregado pode contribuir para a empresa. 
+
+Demonstração de Gratidão: Mostrar gratidão pelo tempo dedicado do chefe em ler a solicitação.
+
+E-MAIL:
+
+----------
+
+Caro (Nome do Chefe),
+
+Através desta, estou solicitando um aumento salarial justo que corresponda ao meu tempo de serviço na empresa. Tenho trabalhado muito e, portanto, entendo que sou merecedor desta solicitação.
+
+Posso contribuir para o crescimento da empresa e torná-la ainda mais produtiva com minhas habilidades e experiência. Estou profundamente obrigado pela oportunidade de trabalhar na empresa e de manifestar minhas habilidades e conhecimentos. 
+
+Sem esquecer de expressar satisfação por poder trabalhar na empresa, gostaria de lembrar que cumpri bem todas as missões e dei o meu melhor nos quesitos desejados pelos gestores e chefes. Por fim, agradeço por ter tomado o tempo para ler minha solicitação.
+
+Cordialmente,
+
+Nome do Empregado

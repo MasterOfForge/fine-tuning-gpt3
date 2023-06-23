@@ -1,0 +1,27 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+1. Assunto: Novo conteúdo disponível no site 
+2. De: Administrador do site 
+3. Para: Usuários do site 
+4. Intuito: Informar sobre os novos conteúdos disponíveis 
+5. Objetivo: Que os usuários aproveitem todos os conteúdos oferecidos 
+6. Tom: Cromático e entusiástico
+
+E-MAIL:
+
+----------
+
+Assunto: Novo conteúdo disponível no site!
+
+Prezados usuários do site, 
+
+Somos da Administração do site e estamos muito felizes em anunciar que temos um novo conteúdo disponível para vocês! 
+
+Vocês podem aproveitar para desfrutar de tudo que o nosso site oferece, pois temos vários conteúdos interessantes disponíveis para vocês. Não deixem de conferir e aproveitar ao máximo todos os conteúdos que temos para oferecer! 
+
+Esperamos que vocês gostem - estamos animados para ver o quão longe podemos ir e o histórias que vamos criar juntos!
+
+Atenciosamente, 
+
+Administração do site.

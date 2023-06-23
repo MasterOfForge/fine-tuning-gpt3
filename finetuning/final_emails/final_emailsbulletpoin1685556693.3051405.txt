@@ -1,0 +1,12 @@
+1. DE: John e Mary Smith 
+2. PARA: Todos os membros da família Smith 
+3. ASSUNTO: Convite para reunião familiar 
+4. OBJETIVO: Reunir todos os membros da família para uma ocasião especial 
+5. LOCAL: Residência dos Smith, Endereço XXX 
+6. DATA: 18 de janeiro de 2020 
+7. HORÁRIO: 19:00 hrs 
+8. INTENÇÃO: Passar um tempo em família e se divertir 
+9. TOM: Caloroso e acolhedor
+
+EMAIL:
+

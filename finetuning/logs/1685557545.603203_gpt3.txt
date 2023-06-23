@@ -1,0 +1,26 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: 
+PARA: 
+ASSUNTO: Envio de Documentos Importantes
+INTENÇÃO: Compartilhamento de Informações
+OBJETIVO: Partilhar Documentos Necessários
+TOM: Profissional e Respeitoso
+
+E-MAIL:
+
+----------
+
+De: [COLOQUE AQUI O SEU NOME]
+Para: [COLOQUE AQUI O NOME DO DESTINATARIO]
+Assunto: Envio de Documentos Importantes
+
+Prezado(a) [COLOQUE AQUI O NOME DO DESTINATÁRIO],
+
+Eu, [COLOQUE AQUI O SEU NOME], estou compartilhando com você informações e documentos importantes que necessitam da sua atenção. Estou anexando o arquivo para o seu uso e referência.
+
+Agradeço a sua cooperação e compromisso com este assunto e estou à disposição para ajudar em qualquer assunto relacionado, caso seja necessário.
+
+Atentamente,
+[COLOQUE AQUI O SEU NOME]

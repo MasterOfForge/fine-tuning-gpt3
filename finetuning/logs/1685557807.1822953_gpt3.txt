@@ -1,0 +1,26 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+De: Nome do remetente 
+Para: Destinatário 
+Assunto: Desejos de Férias Alegres 
+Intenção: Oferecer vontade de alegria ao destinatário 
+Objetivo: Compartilhar sentimento positivo e afetuoso 
+Tom: Simpático e caloroso
+
+E-MAIL:
+
+----------
+
+Caro/a Destinatário, 
+
+Espero que esteja indo muito bem! Queria desejar-lhe férias alegres cheias de diversão emocionante. Suas férias devem ser incríveis! 
+
+Que você desfrute todos os bons momentos com as pessoas que ama e se conecte com sua mente e corpo. Faça um ótimo trabalho em viver, em vez de "sobreviver" nessas férias. Que o sol brilhe no seu rosto e que o vento sopre levemente. 
+
+Você é esplêndido/a e merece viver as férias de um jeito especial. 
+
+Desejo-lhe muito amor, conforto e saúde! Aproveite cada passo do seu caminho e sinta-se abençoado/a. 
+
+Até logo, 
+Nome do Remetente

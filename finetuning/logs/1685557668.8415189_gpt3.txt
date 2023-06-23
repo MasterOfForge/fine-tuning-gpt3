@@ -1,0 +1,28 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: 
+PARA:
+ASSUNTO: Compartilhando artigos sobre promoções
+INTENÇÃO: Compartilhar artigos sobre promoções atuais e próximas
+OBJETIVO: Alertar os usuários sobre as promoções atuais que estão em vigor
+TOM: Informativo/Promocional
+
+E-MAIL:
+
+----------
+
+De: [Seu Nome] 
+Para: [Destinatário] 
+Assunto: Compartilhando Artigos sobre Promoções
+
+Olá [Destinatário],
+
+Estamos muito felizes em compartilhar artigos sobre as últimas promoções em vigor. Nossa intenção é manter nosso público informado sobre nossos últimos projetos de descontos e ofertas.
+
+Animamos nossos usuários a ler nosso blog frequentemente para obter as informações mais atuais sobre serviços e promoções. Se você tiver alguma dúvida ou precisar de suporte adicional, nossos especialistas estão à sua disposição para ajudá-lo.
+
+Agradecemos antecipadamente por sua preferência e esperamos que possamos tornar cada experiência com a nossa marca ainda melhor.
+
+[Sua assinatura] 
+[Nome da sua empresa]

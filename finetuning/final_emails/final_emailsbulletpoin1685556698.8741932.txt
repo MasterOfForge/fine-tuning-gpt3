@@ -1,0 +1,10 @@
+DE: 
+PARA: 
+ASSUNTO: Anúncio de Eventos
+TOM: Agradável
+INTENÇÕES: Convite para participação
+OBJETIVO: Promoção de eventos
+DESTAQUE: Principais características dos eventos
+
+EMAIL:
+

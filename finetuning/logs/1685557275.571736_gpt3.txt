@@ -1,0 +1,29 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: OpenMind Solutions
+    PARA: Gerentes de produtividade da empresa 
+    ASSUNTO: Ideias para aumentar a produtividade
+    INTENÇÃO: Apresentar novas abordagens que possam motivar e aumentar a produtividade dos funcionários 
+    OBJETIVOS: Partilhar ideias inovadoras, resolver problemas e tornar o ambiente de trabalho mais agradável 
+    TOM: Profissional, dinâmico e encorajador
+
+E-MAIL:
+
+----------
+
+Prezad@s Gerentes de produtividade da empresa,
+
+A OpenMind Solutions está entusiasmada por poder melhorar a produtividade dos funcionários da sua empresa. Como parte desta missão, gostaríamos de compartilhar algumas de nossas principais abordagens para o aumento da produtividade.
+
+Aproveitar ao máximo a versatilidade dos trabalhos modernos é essencial para aumentar a produtividade. Estimule os funcionários a usar ferramentas de alta tecnologia e novas soluções. Motive-os a trabalhar em grupo e a implementar novas técnicas de produtividade.
+
+Também é útil atribuir responsabilidades e recompensas aos funcionários mais produtivos. Ofereça incentivos e bonificações para alcançar metas. Crie metas realistas, mas desafiadoras, para alcançar resultados melhores.
+
+É importante manter o ambiente de trabalho animado e motivacional. Estabeleça um clima baseado na confiança e no respeito. Estimule o feedback positivo e trabalhe em parceria com os funcionários para encontrar as melhores soluções.
+
+Ficaríamos honrados em ajudar a sua empresa a aumentar a produtividade dos funcionários. Se gostaria de explorar mais como a OpenMind Solutions pode ajudá-los, por favor, entre em contato.
+
+Com os melhores cumprimentos,
+
+OpenMind Solutions

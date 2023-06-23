@@ -1,0 +1,26 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: Cliente X
+PARA: Família
+ASSUNTO: Atualizações sobre familiares
+INTENÇÕES: Compartilhar notícias sobre familiares
+OBJETIVO: Manter os familiares informados sobre o que está acontecendo
+TOM: Amigável e informal
+
+E-MAIL:
+
+----------
+
+Caros Familiares,
+
+Espero que este e-mail encontre-os bem!
+
+Eu queria compartilhar com vocês as últimas atualizações sobre a família. Estou animado em conectar-me com todos vocês, pois é importante para mim manter-me informado sobre o que está acontecendo com todos os membros da família.
+
+Por favor, envie-me algum retorno sobre sua situação atual, desta vez (vícios, trabalho, tráfego, etc.) ou sobre algum assunto!
+
+Tenham um grande dia e obrigado antecipadamente por toda a sua atenção.
+
+Um abraço,
+Cliente X

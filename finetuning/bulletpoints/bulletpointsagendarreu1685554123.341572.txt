@@ -1,0 +1,7 @@
+- Assunto: Solicitação de Reunião
+- De: Nome do Remetente
+- Para: Nome(s) do(s) Destinatário(s)
+- Objeto: Agendamento de Reunião
+- Intenções: Explicar detalhes da reunião e estabelecer data e horário
+- Finalidade: Discutir assuntos pertinentes e definir responsabilidades para atingir os objetivos propostos
+- Tom: Explícito e respeitoso

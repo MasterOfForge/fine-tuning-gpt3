@@ -1,0 +1,14 @@
+DE: Nome do remetente 
+
+PARA: Nome do destinatário 
+
+ASSUNTO: Oferecendo ajuda para concluir tarefas 
+
+INTENÇÕES: Demonstrar interesse e disposição para ajudar
+
+OBJETIVO: Oferecer apoio na realização de tarefas 
+
+TOM: Cordial e atencioso
+
+EMAIL:
+

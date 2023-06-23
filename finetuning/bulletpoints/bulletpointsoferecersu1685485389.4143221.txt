@@ -1,0 +1,6 @@
+DE: Representante de Suporte 
+PARA: Clientes 
+ASSUNTO: Oferecer Suporte para Dúvidas 
+INTENÇÃO: Prestar Assistência e Resolver Dúvidas 
+OBJETIVO: Garantir a Experiência de Uso dos Produtos e Serviços 
+TOM: Atencioso, Responsivo e Prestativo

@@ -1,0 +1,27 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE:
+PARA:
+ASSUNTO: Oferecer Sugestões de Investimento
+INTENSAO: Discutir Opções de Investimento Viáveis
+OBJETIVO: Explorar opções de Investimento que maximizem os rendimentos
+TOM: Otimista e Persuasivo
+
+E-MAIL:
+
+----------
+
+Para: [destinatário] 
+Assunto: Oferecendo Sugestões de Investimento 
+
+Olá [destinatário],
+
+Gostaria de discutir com você a sua estratégia de investimentos. Como pode ter percebido, o mundo dos investimentos está cada vez mais exigente e, por isso, é importante que você siga as tendências atuais de maneira inteligente para maximizar os seus rendimentos. 
+
+Eu acredito que existem algumas opções inteligentes para você considerar. Após uma análise minuciosa, acredito que essas opções são rentáveis e apresentam menores riscos em relação a outras. Espero que esse e-mail chegue em boa hora. 
+
+Gostaria de agendar uma reunião com você e meu assistente, para que possamos compartilhar nossas opiniões. 
+
+Atenciosamente, 
+[Seu Nome]

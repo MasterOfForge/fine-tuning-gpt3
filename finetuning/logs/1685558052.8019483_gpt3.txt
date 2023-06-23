@@ -1,0 +1,27 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+De: Seu nome 
+Para: Pessoa/s a quem se dirige 
+Assunto: Solicitação de feedback sobre o projeto 
+Intenção: Alcançar opinião sincera sobre o projeto 
+Objetivo: Receber sugestões e ideias de melhoria para o projeto 
+Tom: Respeitoso e cordial
+
+E-MAIL:
+
+----------
+
+Assunto: Solicitação de Feedback sobre o Projeto 
+
+Prezado/s [Pessoa/s a quem se dirige],
+
+É com grande intenção e respeito que me dirijo a você/s para solicitar-lhe/s um feedback sincero sobre o nosso projeto.
+
+Gostaríamos de ouvir sua opinião e receber sugestões que possam nos ajudar a aperfeiçoar o projeto. Estamos particularmente interessados em receber as suas ideias quanto à forma como podemos melhorar a qualidade global do projeto. 
+
+Obrigada pela sua contribuição antecipadamente. 
+
+Atenciosamente,
+
+[Seu nome]

@@ -1,0 +1,32 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+De: 
+Para: 
+Assunto: Compartilhamento de Vídeos Divertidos
+Intenção: Estimular a diversão e o bem-estar
+Objetivo: Compartilhar conteúdo divertido entre pessoas 
+Tom: Alegre e Inspirador
+
+E-MAIL:
+
+----------
+
+De: [SEU ENDEREÇO DE EMAIL]
+Para: [ENDEREÇO DE EMAIL DO RECEPTOR]
+Assunto: Momentos divertidos para compartilhar
+
+Olá!
+
+Como estamos todos navegando num mar de incertezas, achei que seria uma boa ideia enviar um e-mail cheio de esperança, diversão e boa energia!
+
+Vídeos divertidos são uma das melhores maneiras de manter a espontaneidade e otimismo e compartilhar momentos alegres entre amigos e familiares. Então, resolvi compartilhar alguns dos meus vídeos favoritos aqui para que todos possam desfrutar de alguns momentos engraçados e se divertir.
+
+Espero que vocês possam aproveitar os momentos divertidos e assim, restaurar sua energia positiva!
+
+Sintam-se à vontade para compartilhar outros vídeos divertidos comigo também!
+
+Aproveite e se divirta!
+
+Atenciosamente,
+[SEU NOME]

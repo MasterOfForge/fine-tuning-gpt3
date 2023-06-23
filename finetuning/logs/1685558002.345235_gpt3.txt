@@ -1,0 +1,24 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: Solicitante 
+PARA: Destinatário 
+ASSUNTO: Solicitação de Ajuda 
+INTENÇÕES: Solicitar colaboração no desenvolvimento de uma tarefa 
+OBJETIVOS: Concluir a tarefa dentro do prazo estabelecido 
+TOM: Polido e profissional
+
+E-MAIL:
+
+----------
+
+Prezado [Destinatário],
+
+Gostaria de solicitar sua colaboração para a realização de uma tarefa. Estou trabalhando num projeto e necessito de sua ajuda para concluí-lo dentro do prazo estipulado.
+
+Você terá a oportunidade de contribuir para esse projeto, através da sua experiência e habilidade.
+
+Agradeço desde já sua colaboração.
+
+Atentamente,
+[Solicitante]

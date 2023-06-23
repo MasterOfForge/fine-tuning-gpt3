@@ -1,0 +1,29 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+1. Assunto: Comunicado sobre mudança de prazos
+2. De: Equipe de Gerentes
+3. Para: Todos os Colaboradores
+4. Intenção: Aviso de mudança de prazos
+5. Objetivo: Informar sobre o novo cronograma de prazos
+6. Tom: Suave e educado
+
+E-MAIL:
+
+----------
+
+Assunto: Aviso sobre Alteração de Prazos
+
+Prezados Colaboradores,
+
+Informamos que o cronograma de prazo da nossa empresa passará por algumas alterações, e gostaríamos de informar a todos a respeito dessa mudança. Por esse motivo, está sendo enviado este comunicado.
+
+A mudança de prazo inclui novas datas de entregas, data e hora de reuniões, além de mudanças nos prazos de entrega de tarefas e execução de projetos.
+
+Pedimos que todos fiquem atentos às novas informações vindas dos gerentes e de outros membros da equipe.
+
+Nossa equipe está sempre empenhada em facilitar o trabalho de todos e esse ajuste de prazos visa proporcionar um ambiente de trabalho ainda melhor e mais produtivo.
+
+Agradecemos a compreensão de todos,
+
+Equipe de Gerentes

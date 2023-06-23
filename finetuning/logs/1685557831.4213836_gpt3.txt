@@ -1,0 +1,38 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE:
+PARA: 
+ASSUNTO: 
+INTENÇÃO:
+OBJETIVO:
+TOM: 
+
+MOTIVOS:
+  1. Discutir possíveis soluções para o problema identificado.
+  2. Compartilhar as recentes descobertas sobre a questão.
+  3. Apresentar novos pontos de vista e opiniões.
+  4. Estabelecer um plano de ação para encontrar soluções.
+  5. Otimizar os processos já estabelecidos.
+  6. Ganhar uma compreensão mais profunda da situação.
+  7. Aproveitar todo o potencial do quadro de recursos humanos.
+  8. Resolver o desafio de forma conjunta.
+  9. Melhorar a comunicação entre as partes interessadas.
+  10. Expansão de visão além dos limites.
+
+E-MAIL:
+
+----------
+
+Assunto: Discutir possibilidades de solução para o problema
+
+Prezados, 
+
+Recentemente, me deparei com problemas relacionadas à questão [INSERIR NOME DO PROBLEMA]. Gostaria de propor um encontro para compartilhar nosso conhecimento das recentes descobertas sobre o assunto e discutir possíveis soluções.
+
+Espero que possamos criar novos pontos de vista para a discussão e procurar alternativas práticas que possam satisfazer as necessidades de todas as partes interessadas. A reunião também poderá nos ajudar a aprimorar processos já existentes, obter compreensão mais profunda da situação, usar todo o potencial do quadro de recursos humanos, resolver problemas de forma conjunta, melhorar a comunicação e, ainda, expandir as visões além dos limites atuais.
+
+Agradeço a sua colaboração neste empenho. 
+
+Atenciosamente, 
+[SEU NOME]

@@ -1,0 +1,26 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: Empresa 
+PARA: Nossos clientes
+ASSUNTO: Novas promoções 
+Intenção: Compartilhar informações sobre novas e excitantes promoções 
+Objetivo: Oferecer incentivos para que os clientes usufruam dos nossos serviços 
+Tom: Convite para aproveitar nossas oportunidades de economia
+
+E-MAIL:
+
+----------
+
+Caros Clientes,
+
+Gostaríamos de encorajá-los a aproveitar as novas e espetaculares promoções que estamos oferecendo. Nossa empresa está comprometida em oferecer a melhor experiência possível aos nossos clientes, e queremos que aproveite isso. 
+
+Com nossas promoções, você pode economizar em serviços variados e crucialmente importantes para o seu dia a dia. Desde serviços de transporte até serviços de resorts, estamos oferecendo descontos exclusivos para que todos possam aproveitar. 
+
+Por favor, aproveite as nossas promoções antes que sejam alteradas ou encerradas. Estamos aqui para ajudá-lo a alcançar um equilíbrio entre aspecto financeiro e aspecto de qualidade. 
+
+Obrigado pela sua consideração. Estamos ansiosos para contar com seus serviços! 
+
+Atenciosamente,
+[Nome da Empresa]

@@ -1,0 +1,24 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: 
+Para: 
+ASSUNTO: Compartilhando informações sobre investimentos
+Intenção: Incentivar o interessado a realizar investimentos seguros e lucrativos
+Objetivo: Fornecer informações sobre tipos de investimentos, como escolher o melhor para o interessado, e mostrar as melhores fontes para a informação
+Tom: O uso de linguagem informal para estimular a curiosidade do destinatário
+
+E-MAIL:
+
+----------
+
+Olá,
+
+Como você sabe, investir é uma ótima forma de reservar uma quantia significativa de dinheiro para um futuro seguro. Mas, com tantos tipos diferentes de investimentos, são possíveis muitos erros na escolha equivocada.
+
+Espero que aqui venha a minha ajuda! Partilhar-lhe-ei dicas sobre os tipos de investimentos mais seguros e lucrativos, como escolher o melhor para você e quais são as melhores fontes em que você pode encontrar informações.
+
+Sei que essa é uma matéria nova para a maioria das pessoas e que nem sempre é fácil. Mas não se desanime, pois não está sozinho nessa busca. Vamos lá: investir pode ser divertido, fácil e lucrativo!
+
+Grande abraço,
+[seu nome]

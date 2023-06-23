@@ -1,0 +1,7 @@
+DE: Empresa X
+PARA: Usuários do projeto
+ASSUNTO: Atualizações no projeto
+INTENÇÃO: Manter os usuários informados sobre as últimas atualizações 
+OBJETIVOS: Incluir detalhes sobre as novas alterações e melhorias relevantes 
+
+TOM: Profissional, educado e informativo

@@ -1,0 +1,23 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+De: 
+ Para: 
+ Assunto: Oferecendo Ajuda para Concluir Tarefas
+ Intenção: Propôr Solução Útil para suas Necessidades
+ Objetivo: Ajudar na Conclusão de Tarefas
+ Tom: Amigável e Cooperativo
+ Finalidade: Facilitar a Conclusão das Tarefas de Forma Eficaz e Rápida
+
+E-MAIL:
+
+----------
+
+Prezado(a),
+
+Espero que este e-mail encontre você bem. Gostaria de me oferecer para ajudá-lo(a) na conclusão de suas tarefas. Estou à disposição para ajudar de maneira amigável e cooperativa, com a finalidade de facilitar essas tarefas, de forma tão rápida quanto eficiente.
+
+Se estiver interessado(a) em minha ajuda, agradeço que me forneça mais detalhes sobre o que precisa ser feito.
+
+Atenciosamente,
+[Nome]

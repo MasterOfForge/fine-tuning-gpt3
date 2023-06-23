@@ -1,0 +1,19 @@
+f8f26e3e-3048-4969-90cc-641100160c7f
+Dado o seguinte cenário e obedecendo as regras gramaticais do português do Brasil, 
+faça uma lista de tópicos para incluir no email. 
+Os tópicos devem incluir termos como DE, PARA, ASSUNTO, intenções, objetivos, tom e assim por diante. 
+Os tópicos gerados não podem conter erros ortográficos ou de concordância verbal. 
+Seja criativo pois esse é um cenário imaginário!
+
+CENÁRIO: Compartilhar planos de viagens em família
+
+TÓPICOS:
+
+----------
+
+•De: 
+•Para: 
+•Assunto: Compartilhar Planos de Viagem em Família
+•Intenção: Planejar a Próxima Férias e Viagem em Família
+•Objetivo: Compartilhar Ideias e Discussões Antecipadas
+•Tom: Incentivar um Ambiente Divertido e Compartilhado

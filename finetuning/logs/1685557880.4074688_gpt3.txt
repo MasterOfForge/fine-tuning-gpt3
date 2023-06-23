@@ -1,0 +1,28 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+- Assunto: Oferta de Descontos para Novos Clientes
+- Destinatário: Clientes Potenciais
+- Intenção: Convite para Adesão ao Programa de Descontos
+- Objetivo: Aumentar o número de Clientes
+- Conteúdo: Detalhamento da Oferta de Descontos
+- Tom: Atrativo e Encorajador
+
+E-MAIL:
+
+----------
+
+Caros Clientes Potenciais, 
+
+Estamos entusiasmados por oferecer um programa de descontos especialmente criado para novos clientes! Não perca a oportunidade de obter os nossos incríveis produtos e serviços a preços acessíveis.
+
+Aproveite nossa oferta e comece obtendo até 30% de desconto nas suas compras. Nossa promoção mostra que estamos comprometidos em oferecer produtos de qualidade e serviço excepcional a todos os nossos clientes.
+
+Nós confiamos que você vai adorar a nossa experiência de entrega e qualidade e, com isso, decidiu assinar nosso programa de descontos.
+
+Não hesite em contactar-nos caso tenha qualquer dúvida, estamos sempre disponíveis para ajudar.
+
+Estamos ansiosos para lhe dar as boas-vindas!
+
+Atenciosamente, 
+[Nome da Empresa]

@@ -1,0 +1,27 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+• De: Direção da Empresa 
+• Para: Todos os colaboradores 
+• Assunto: Alterações na rotina da empresa 
+• Intenção: Informar sobre mudanças na rotina da empresa 
+• Objetivo: Esclarecer possíveis dúvidas e adaptações 
+• Tom: Solícito e Respeitoso.
+
+E-MAIL:
+
+----------
+
+Prezados Colaboradores,
+
+Em vista da necessidade de mudanças na rotina da empresa, gostaríamos de informar que haverão diversas adaptações na forma como o trabalho é desempenhado.
+
+Nós temos certeza que tais adaptações, realizadas com o intuito de se garantir a qualidade de nossos serviços e o cumprimento dos prazos estabelecidos, serão benéficas para o crescimento da empresa. 
+
+Com o objetivo de esclarecer possíveis dúvidas e facilitar a adaptação de todos, pedimos que leiam atentamente todas as informações que serão passadas ao longo dos próximos dias.
+
+Estamos à disposição para qualquer tipo de esclarecimento.
+
+Atenciosamente,
+
+Direção da Empresa

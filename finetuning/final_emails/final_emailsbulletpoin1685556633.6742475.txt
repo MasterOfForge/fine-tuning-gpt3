@@ -1,0 +1,10 @@
+DE: Representante da família 
+PARA: Membros da família 
+ASSUNTO: Anúncio de evento familiar 
+INTENÇÃO: Convite para participar do evento 
+OBJETIVO: Promover reunião familiar 
+TOM: Alegre e festivo 
+INFORMAÇÕES ADICIONAIS: Detalhes sobre o evento (data, local etc.)
+
+EMAIL:
+

@@ -1,0 +1,26 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: Você
+PARA: Família
+ASSUNTO: Compartilhando nossos planos de viagem 
+INTENÇÃO: Convidar a família para juntos planejar uma viagem 
+OBJETIVO: Criar boas memórias em família e ter momentos de conexão e lazer 
+TOM: Alegre, animado e esperançoso
+
+E-MAIL:
+
+----------
+
+Olá Família, 
+
+Como estão? Espero que todos estejam muito bem. 
+
+Estou aqui para compartilhar um plano que tenho em mente há algum tempo: Planejar uma viagem juntos. Acredito que seria uma ótima oportunidade para criarmos memórias inesquecíveis em família, mas também um momento para se reconectar uns com os outros. 
+
+Gostaria muito que todos ajudassem a construir este sonho para que possamos criar memórias que farão parte de nós e possamos ter bons momentos de lazer. 
+
+Espero muito que todos aceitem o convite para que possamos, juntos, planejar a nossa próxima viagem aventureira.
+
+Muito amor, 
+Você

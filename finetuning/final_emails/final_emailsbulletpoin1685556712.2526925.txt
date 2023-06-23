@@ -1,0 +1,9 @@
+DE:
+PARA:
+ASSUNTO: Oferecer Sugestões de Investimento
+INTENSAO: Discutir Opções de Investimento Viáveis
+OBJETIVO: Explorar opções de Investimento que maximizem os rendimentos
+TOM: Otimista e Persuasivo
+
+EMAIL:
+

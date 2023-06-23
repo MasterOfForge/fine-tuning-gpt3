@@ -1,0 +1,27 @@
+056b5b75-3d12-415e-8771-5e89cffae2c8
+Dado o seguinte cenário e obedecendo as regras gramaticais do português do Brasil, 
+faça uma lista de tópicos para incluir no email. 
+Os tópicos devem incluir termos como DE, PARA, ASSUNTO, intenções, objetivos, tom e assim por diante. 
+Os tópicos gerados não podem conter erros ortográficos ou de concordância verbal. 
+Seja criativo pois esse é um cenário imaginário!
+
+CENÁRIO: Pedir ajuda com tarefas domésticas
+
+TÓPICOS:
+
+----------
+
+DE: Você
+
+PARA: Seus pais
+
+ASSUNTO: Pedido de ajuda com tarefas domésticas
+
+INTENÇÃO:
+Solicitar ajuda com tarefas domésticas
+
+OBJETIVO:
+Melhorar a qualidade de vida ao ter mais tempo livre
+
+TOM: 
+Respeito, grato e saudável

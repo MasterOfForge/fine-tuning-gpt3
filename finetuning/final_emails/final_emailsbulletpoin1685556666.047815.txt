@@ -1,0 +1,11 @@
+DE: 
+PARA: 
+ASSUNTO: Compartilhamento de Links Interessantes
+INTENÇÕES: Compartilhar conteúdo rico relacionado ao trabalho
+OBJETIVOS: Incentivar a leitura de assuntos relacionados ao trabalho
+TOM: Oferecendo oportunidades para aprimorar o conhecimento 
+ESTRATÉGIAS: Sugerindo recursos úteis para aprimorar habilidades profissionais
+
+EMAIL:
+
+sleep(1)

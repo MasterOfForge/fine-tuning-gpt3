@@ -1,0 +1,28 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+• De: 
+• Para: 
+• Assunto: Novas Oportunidades de Investimento
+• Intenções: Notificar sobre novas oportunidades de investimento
+• Objetivos: Promover oportunidades de investimento
+• Tom: Convidação para investir
+
+E-MAIL:
+
+----------
+
+Assunto: Novas Oportunidades de Investimento
+
+Caro(a) ____________,
+
+Estamos muito satisfeitos por  lhe informar sobre as novas oportunidades de investimento que estamos oferecendo. Estamos confiantes de que essas oportunidades são muito atraentes e certamente vão trazer bons resultados financeiros para você.
+
+Nossos especialistas em investimentos foram treinados para lhe ajudar a escolher a melhor opção que combine com seu orçamento e prioridades de investimento, proporcionando a maior segurança no retorno dos seus investimentos.
+
+Para obter mais informações sobre essas ótimas oportunidades, por favor entre em contato conosco.
+
+Agradecemos a sua consideração.
+
+Com os melhores cumprimentos,
+[Seu Nome]

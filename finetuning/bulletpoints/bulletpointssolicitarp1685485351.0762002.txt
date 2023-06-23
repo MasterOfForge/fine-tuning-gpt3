@@ -1,0 +1,6 @@
+DE: Agente de marketing
+PARA: Clientes interessados
+ASSUNTO: Convite para participar de campanhas promocionais
+INTENÇÃO: Mostrar às pessoas como se beneficiar com nossa campanha promocional
+OBJETIVO: Aumentar interesse nas nossas campanhas para aumentar as chances de sucesso
+TOM: Otimista e motivacional

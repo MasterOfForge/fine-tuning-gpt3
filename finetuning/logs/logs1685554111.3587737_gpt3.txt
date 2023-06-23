@@ -1,0 +1,19 @@
+e97b8957-45da-408d-862a-49057e1c0395
+Dado o seguinte cenário e obedecendo as regras gramaticais do português do Brasil, 
+faça uma lista de tópicos para incluir no email. 
+Os tópicos devem incluir termos como DE, PARA, ASSUNTO, intenções, objetivos, tom e assim por diante. 
+Os tópicos gerados não podem conter erros ortográficos ou de concordância verbal. 
+
+CENÁRIO: Solicitar feedback sobre um projeto
+
+TÓPICOS:
+
+----------
+
+De: _______________________
+Para: ______________________
+Assunto: Solicitação de feedback sobre o projeto
+Intenção: Obter feedback sobre as ideias desenvolvidas no projeto
+Tom: Informal/Respeitoso
+Objeto: Solicitar a opinião de especialistas sobre o projeto
+Finalidade: Utilizar o feedback para melhorar e ampliar o projeto

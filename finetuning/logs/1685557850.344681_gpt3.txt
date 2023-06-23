@@ -1,0 +1,23 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+1. Para: Organizadores de eventos
+2. Assunto: Oferta de assistência
+3. Intenção: Oferecer nossos serviços para eventos especiais
+4. Objetivo: Tornar seu evento memorável
+5. Tom: Convidativo e compreensivo
+
+E-MAIL:
+
+----------
+
+Prezados Organizadores de Eventos,
+
+Meu nome é _____ e gostaríamos de oferecer nossos serviços para ajudar a tornar seu evento memorável. Estamos bem versados em tudo, desde planos de instituição de segurança a planejamento de recursos, e sempre nos esforçamos para garantir que cada evento seja único e inesquecível para seus convidados.
+
+Nossa equipe tem o privilégio de trabalhar com você, ajudando a transformar grandes ideias em realidade. Se você estiver interessado em discutir como a nossa solução pode contribuir para o sucesso de seu evento especial, entre em contato conosco. Estamos ansiosos para desenvolver uma parceria a longo prazo com você.
+
+Agradecemos antecipadamente sua consideração!
+
+Atenciosamente,
+[Nome]

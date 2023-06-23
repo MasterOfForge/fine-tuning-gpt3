@@ -1,0 +1,22 @@
+3ff937fe-75e1-4d76-b072-1623e9294bd2
+Dado o seguinte cenário e obedecendo as regras gramaticais do português do Brasil, 
+faça uma lista de tópicos para incluir no email. 
+Os tópicos devem incluir termos como DE, PARA, ASSUNTO, intenções, objetivos, tom e assim por diante. 
+Os tópicos gerados não podem conter erros ortográficos ou de concordância verbal. 
+Seja criativo pois esse é um cenário imaginário!
+
+CENÁRIO: Convite para reunião familiar
+
+TÓPICOS:
+
+----------
+
+1. DE: John e Mary Smith 
+2. PARA: Todos os membros da família Smith 
+3. ASSUNTO: Convite para reunião familiar 
+4. OBJETIVO: Reunir todos os membros da família para uma ocasião especial 
+5. LOCAL: Residência dos Smith, Endereço XXX 
+6. DATA: 18 de janeiro de 2020 
+7. HORÁRIO: 19:00 hrs 
+8. INTENÇÃO: Passar um tempo em família e se divertir 
+9. TOM: Caloroso e acolhedor

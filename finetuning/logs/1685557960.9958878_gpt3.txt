@@ -1,0 +1,28 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: Nome do remetente do email 
+PARA: Nome(s) da(s) pessoa(s) para quem se dirige o email 
+ASSUNTO: Solicitação de Ajuda para Organizar Evento Familiar 
+INTENÇÕES: Oferecer uma descrição dos detalhes do evento e dos motivos pelos quais a ajuda do destinatário é necessária 
+OBJETIVOS: Explicar de maneira clara quais tarefas precisam ser realizadas antes do evento 
+TOM: Educado e respetuoso
+
+E-MAIL:
+
+----------
+
+Caro(a) [nome(s) da(s) pessoa(s)],
+
+Espero que este e-mail encontre você em boa saúde.
+
+Estou escrevendo para pedir ajuda para organizar um evento familiar. Estou pensando em promover uma reunião com alguns membros próximos de nossa família na próxima semana. Planejei incluir um jantar, alguns jogos e divertimento.
+
+Se você puder dar um tempo para nos ajudar a fazer a organização para que tudo corra bem, ficaria muito grato. Precisaremos de sua ajuda na seleção de itens para o jantar, na preparação dos jogos e algumas outras atividades da festa. 
+
+Por gentileza, informe-me qual o dia e horário em que estará disponível para nos ajudar. Qualquer volta de sua parte será muito bem-vinda.
+
+Agradeço muito a sua solícita atenção.
+
+Atenciosamente, 
+[Nome do remetente do email]

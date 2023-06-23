@@ -1,0 +1,30 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+De: _______________________
+Para: ______________________
+Assunto: Solicitação de feedback sobre o projeto
+Intenção: Obter feedback sobre as ideias desenvolvidas no projeto
+Tom: Informal/Respeitoso
+Objeto: Solicitar a opinião de especialistas sobre o projeto
+Finalidade: Utilizar o feedback para melhorar e ampliar o projeto
+
+E-MAIL:
+
+----------
+
+De: Seu nome <seu_endereço_de_email>
+Para: Destinatário <endereço_de_email_do_destinatário>
+Assunto: Solicitação de feedback sobre o projeto
+
+Caro(a) < nome do destinatário >,
+
+Primeiramente, gostaria de lhe agradecer pelo tempo e energia dedicados à leitura deste email.
+
+Estou escrevendo para solicitar o feedback de alguns especialistas sobre o projeto que desenvolvi. Apesar dele já estar muito avançado em termos de desenvolvimento, gostaria de otimizar ainda mais o meu trabalho. Por essa razão, considero que o seu conhecimento pode nos ajudar a melhorar o projeto e ampliar as suas possibilidades.
+
+Sempre me esforço para fazer trabalhos de qualidade que possam trazer benefícios à sociedade. Por isso, espero contar com a sua colaboração. Agradeço desde já qualquer tipo de feedback que você considere ser útil para o desenvolvimento deste projeto.
+
+Muito obrigado(a),
+
+Seu Nome

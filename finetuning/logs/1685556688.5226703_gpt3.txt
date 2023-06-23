@@ -1,0 +1,119 @@
+#!/usr/bin/env python
+import os
+import config
+import openai
+import argparse
+from time import time,sleep
+from uuid import uuid4
+openai.api_key = config.OPENAI_API_KEY
+
+def open_file(filepath):
+    with open(filepath, 'r', encoding='utf-8') as infile:
+        return infile.read()
+
+def save_file(filepath, content):
+    with open(filepath, 'w', encoding='utf-8') as outfile:
+        outfile.write(content)
+
+scenarios = open_file('.vscode/pjfinetuning/baseline.txt').splitlines()
+
+def gpt_completion(prompt, engine='text-davinci-003', temp=1.0, top_p=1.0, tokens=2048, freq_pen=0.0, pres_pen=0.0, stop=['asdfasdf', 'asdasdf']):
+    max_retry = 5
+    retry = 0
+    prompt = prompt.encode(encoding='utf-8', errors='ignore').decode()
+
+    while True:
+        try:
+            response = openai.Completion.create(
+                engine=engine,
+                prompt=prompt,
+                temperature=temp,
+                max_tokens=tokens,
+                top_p=top_p,
+                frequency_penalty=freq_pen,
+                presence_penalty=pres_pen,
+                stop=stop)
+            text = response['choices'][0]['text'].strip()
+            #text = re.sub('\s+', ' ', text)
+            filename = '%s_gpt3.txt' % time()
+            os.makedirs('.vscode/pjfinetuning/logs', exist_ok=True)
+            save_file('.vscode/pjfinetuning/logs/%s' % filename, prompt + '\n\n----------\n\n' + text)
+            return text
+        except Exception as fail:
+            retry += 1
+            if retry >= max_retry:
+                return "GPT-3 error: %s" % fail
+            print('Error communicating with OpenAI:', fail)
+            sleep(1)
+
+def create_scenario():
+    for scenario in scenarios:
+        prompt = open_file('.vscode/pjfinetuning/prompt_bulletpoints.txt').replace('De: 
+Para: 
+Assunto: Compartilhamento de Vídeos Divertidos
+Intenção: Estimular a diversão e o bem-estar
+Objetivo: Compartilhar conteúdo divertido entre pessoas 
+Tom: Alegre e Inspirador', scenario).replace('<<UUID>>', str(uuid4()))
+        print('\n\n----------\n\n', prompt)
+        completion = gpt_completion(prompt)
+        filename = scenario.replace(' ','').lower()[0:10] + str(time()) + '.txt'
+        os.makedirs('.vscode/pjfinetuning/bulletpoints', exist_ok=True)
+        save_file('.vscode/pjfinetuning/bulletpoint/%s' % filename, completion)
+        print('\n\n', completion)
+        sleep(1) 
+
+def final_prompt():
+    src_dir = '.vscode/pjfinetuning/bulletpoints/'
+    for file in os.listdir(src_dir):
+        scenario = open_file(src_dir + file)
+        prompt = open_file('.vscode/pjfinetuning/generate.py').replace('De: 
+Para: 
+Assunto: Compartilhamento de Vídeos Divertidos
+Intenção: Estimular a diversão e o bem-estar
+Objetivo: Compartilhar conteúdo divertido entre pessoas 
+Tom: Alegre e Inspirador', scenario)
+        print('\n\n==========\n\n', prompt)
+        completion = gpt_completion(prompt)
+        print('\n\n', completion)
+        filename = file.replace(' ','').lower()[0:10] + str(time()) + '.txt'
+        output = scenario.strip() + '\n\nEMAIL:\n\n' + completion
+        os.makedirs('.vscode/pjfinetuning/final_emails', exist_ok=True)
+        save_file('.vscode/pjfinetuning/final_emails%s' % filename, output)
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--scenario', action='store_true', help='Create scenarios')
+parser.add_argument('--final', action='store_true', help='Create emails')
+args = parser.parse_args()
+
+if __name__ == '__main__':
+    if args.scenario:
+        create_scenario()
+    if args.final:
+        final_prompt()
+
+----------
+
+# gpt completion - START
+
+# Olá <NOME>,
+
+# Seu dia está ao seu dispor e a vontade de aproveitá-lo é grande! O que você pretende fazer?
+
+# Bem, no meu caso, gosto de compartilhar coisas divertidas, para estimular o bem-estar das pessoas ao meu redor. Então, decidi começar a enviar vídeos engraçados para meus amigos nas redes sociais.
+
+# Sinceramente, as pessoas não entendem o porquê eu faço isso. Por isso, decidi criar este email para explicar melhor como tudo funciona.
+
+# Como sabemos, os vídeos são a melhor forma de compartilhar emoções de maneira divertida. É preciso escolher o vídeo certo para que as pessoas realmente apreciem. Essa escolha de vídeos depende do nível de compreensão de cada um dos destinatários. 
+
+# Eu gosto de reunir vídeos de todos os tipos em um só. Isso faz com que, ao mesmo tempo, o conteúdo possa ser compreendido por todas as pessoas. Por exemplo, consigo reunir vídeos engraçados, momentos especiais, palavras de amizade e outros que se encaixam nessa categoria.
+
+# Além dos vídeos, gosto de incentivar as pessoas a fazer algo novo e divertido. Por exemplo, podemos chamar a atenção sobre alguns fatos interessantes, estimular a reflexão e tentar descobrir novos métodos de diversão.
+
+# É isso que eu busco com este email, somente mostrar que é possível compartilhar algo de forma divertida, para estimular a boa disposição na vida das pessoas.
+
+# Espero que gostem dessa nova experiência.
+
+# Atenciosamente, 
+# <NOME>
+
+# gpt completion - END

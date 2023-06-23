@@ -1,0 +1,9 @@
+DE: Você
+PARA: Família
+ASSUNTO: Compartilhando nossos planos de viagem 
+INTENÇÃO: Convidar a família para juntos planejar uma viagem 
+OBJETIVO: Criar boas memórias em família e ter momentos de conexão e lazer 
+TOM: Alegre, animado e esperançoso
+
+EMAIL:
+

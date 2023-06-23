@@ -1,0 +1,30 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+ASSUNTO: Aviso de Mudança dos Prazos
+DE: <Nome do Remetente> 
+PARA: <Nome dos Destinatários>
+INTENÇÃO: Notificar sobre as Modificações dos Prazos
+OBJETIVO: Garantir que as Modificações sejam Cumpridas
+TOM: Solícito e Compreensivo
+
+E-MAIL:
+
+----------
+
+Assunto: Atenção: Alteração dos Prazos
+ 
+Prezados <Nome dos Destinatários>,
+
+Vimos através deste comunicado notificar todos/as sobre a mudança nos prazos dos nossos produtos e serviços. As modificações foram necessárias para que possamos melhorar o nosso atendimento ao cliente e oferecer-lhes um serviço de melhor qualidade.
+
+A partir de agora, os prazos variarão de acordo com cada produto e serviço. Assim, a melhor forma de entender a modificação é fazer uma consulta conosco para cada produto ou serviço desejado.
+
+Esperamos, com estas modificações, garantir o cumprimento dos nossos prazos de entrega contribuindo para um aumento, tanto na qualidade dos nossos produtos quanto na satisfação dos nossos clientes.
+
+Caso tenha alguma dúvida acerca das novas modificações, por favor, entre em contato conosco através do nosso canal de atendimento.
+
+Agradecemos a compreensão e o apoio de todos nesta nova etapa.
+
+Atenciosamente, 
+<Nome do Remetente>

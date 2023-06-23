@@ -1,0 +1,29 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+- Para: Equipe de Trabalho
+- Assunto: Compartilhando Links Interessantes Relacionados ao Trabalho
+- Intenção: Informar os membros da equipe sobre os links que consideramos relevantes para o trabalho e estimular o compartilhamento de conhecimento
+- Objetivo: Melhorar o desempenho da equipe mantendo a informação acessível
+- Tom: Informativo
+
+E-MAIL:
+
+----------
+
+Prezados membros da Equipe de Trabalho,
+
+Espero que estejam bem.
+
+Neste momento, desejamos compartilhar alguns links interessantes relacionados ao trabalho com todos vocês. Acreditamos que eles poderão contribuir significativamente para melhorar o desempenho da equipe, mantendo as informações sempre acessíveis.
+
+[Link aqui]
+[Link aqui]
+[Link aqui]
+
+Esperamos que gostem e os proveitos sejam evidentes. Caso tenham quaisquer recursos interessantes para compartilhar com o restante da equipe, involuntariamente peço-vos que nos os partilhem. É sempre bom reforçar a base de conhecimento desta equipe!
+
+Obrigado pela atenção.
+
+Cordialmente,
+Nome

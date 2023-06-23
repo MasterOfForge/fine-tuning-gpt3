@@ -1,0 +1,36 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+1. De: Nome do Remetente
+2. Para: Nome do Destinatário
+3. Assunto: Compartilhando frases inspiradoras
+4. Intenção: encorajar, motivar o destinatário
+5. Objetivo: inspirar o destinatário com frases motivacionais
+6. Tom: otimista, positivo, encorajador
+
+E-MAIL:
+
+----------
+
+De: Nome do Remetente
+Para: Nome do Destinatário
+Assunto: Compartilhando frases inspiradoras
+
+Olá [Nome do Destinatário],
+
+Como você está? Espero que esteja se sentindo otimista e positivo.
+
+Eu queria compartilhar algumas frases motivadoras para ajudar você a alcançar seus objetivos. Aqui estão alguns que me ajudaram recentemente:
+
+"Onde a vontade de vencer é mais forte que o medo de perder, a vitória é certa." - Rocky Balboa
+
+"Você sempre pode começar de novo, mudar sua história e recomeçar." - Paulo Coelho
+
+"Nada é impossível quando você acredita." - Jim Carrey
+
+Você é capaz de fazer grandes coisas - Você só precisa ter coragem e se lembrar que, acima de tudo, não deixará de tentar.
+
+Espero que isso o motive a alcançar grandes coisas!
+
+Atenciosamente,
+Nome do Remetente

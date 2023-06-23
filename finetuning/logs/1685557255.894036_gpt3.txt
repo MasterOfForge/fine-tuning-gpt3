@@ -1,0 +1,28 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+• DE: Família 
+• PARA: Todos os membros da família 
+• ASSUNTO: Anúncio do nosso próximo evento familiar 
+• INTENÇÃO: Compartilhar nosso próximo evento e convidar todos os membros para participarem 
+• OBJETIVO: Aproveitarmos o momento ao máximo e nos conectarmos como família 
+• TOM: Alegre e jovial 
+• PRAZO: Data limite para confirmação de presença 
+• AÇÃO: Informações adicionais sobre como evento ocorrerá 
+• ATENÇÃO: Segurança e saúde dos nossos familiares
+
+E-MAIL:
+
+----------
+
+Atenção família!
+
+Tenho um anúncio muito alegre para compartilhar com vocês: estamos organizando nosso próximo evento familiar! A ocasião é para nos conectarmos como uma família e aproveitarmos o momento juntos.
+
+Para garantir a segurança e a saúde de todos, nós tomamos todas as precauções necessárias e estamos animados para compartilhar mais informações com vocês à medida que o dia se aproximar. O evento será realizado na seguinte data e hora: [DETALHES], então confirme sua presença até [DATA LIMITE] para que possamos programar adequadamente. Se você tiver perguntas ou sugestões, entre em contato conosco.
+
+Tenho certeza de que vocês gostarão da ocasião e estamos ansiosos para recebê-los!
+
+Com amor,
+
+[ASSINATURA DA FAMÍLIA]

@@ -1,0 +1,33 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+De: 
+Para: 
+Assunto: Convite para Evento Promocional
+Intenção: Convidar para o Evento Promocional
+Objetivos: Implantar novos planos de marketing, apresentar um novo produto, aumentar as vendas
+Tom: Agradável e entusiasmado
+
+E-MAIL:
+
+----------
+
+Caro(a) [Destinatário],
+
+Esperamos que este e-mail lhe encontre com o melhor da saúde.
+
+Estamos realmente empolgados em compartilhar esse convite e compartilhar conosco nosso Evento Promocional. Durante o evento, esperamos discutir alguns novos planos de marketing, apresentar um novo produto e encontrar maneiras de aumentar as vendas.
+
+Esse evento é uma ótima oportunidade, pois oportunizamos a todos a chance de network e, além disso, traremos também palestras de profissionais de destaque nas áreas abordadas.
+
+Será um dia intenso de networking e troca de informações que poderão gerar bons resultados.
+
+Enviamos abaixo a data e o detalhes para o evento.
+
+[DATA DO EVENTO]
+[LOCAL DO EVENTO]
+
+Esperamos que venha.
+
+Atenciosamente, 
+[Nome do Remetente]

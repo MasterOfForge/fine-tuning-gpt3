@@ -1,0 +1,6 @@
+DE: Responsável pelo Projeto 
+PARA: Investidores 
+ASSUNTO: Solicitação de recursos para o Projeto
+INTENÇÕES: Apresentar benefícios potenciais e oportunidades de investimento 
+OBJETIVOS: Mostrar aos investidores as áreas em que os recursos serão aplicados
+TOM: Encorajar os investidores a contribuírem para o projeto de forma responsável e duradoura

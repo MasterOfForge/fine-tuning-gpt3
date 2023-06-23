@@ -1,0 +1,13 @@
+DE: 
+
+PARA:
+
+ASSUNTO: Solicitar feedback sobre o projeto
+
+INTENÇÃO: Receber contribuições valiosas para o melhoramento do projeto
+
+OBJETIVOS: Obter opiniões sinceras sobre o projeto e usar as sugestões para realizar melhorias necessárias 
+
+COMPORTAMENTO ESPERADO: Manter a discrição, ser construtivo e assertivo na conduta 
+
+TOM: Sutilmente persuasivo para obter mais contribuições e respostas

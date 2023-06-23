@@ -1,0 +1,29 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+1. Assunto: Aviso sobre mudanças no horário das atividades familiares
+2. De: Responsável pela atividade família
+3. Para: Todos os participantes da atividade
+4. Intenção: Notificar sobre alterações no horário
+5. Objetivo: Explicar a necessidade de ajustar o horário
+6. Tom: Respeitoso e compreensivo
+
+E-MAIL:
+
+----------
+
+Assunto: Alterações no horário das atividades familiares
+
+Prezados participantes,
+
+Com muito respeito e compreensão, gostaríamos de avisá-los sobre as alterações no horário das nossas atividades familiares.
+
+Devido a circunstâncias imprevistas, precisamos mudar o horário de algumas das atividades. Acreditamos que essa alteração nos ajudará a melhorar o nosso evento e torná-lo mais atraente para todos os envolvidos.
+
+Agradecemos a sua compreensão e colaboração nesta causa. Estamos ansiosos por realizar as atividades com êxito e levamos em consideração a opinião de todos os participantes.
+
+Caso tenha alguma dúvida ou necessite de mais informações, entre em contato conosco.
+
+Atenciosamente,
+
+Nome do responsável pela atividade

@@ -1,0 +1,29 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: Representante da família 
+PARA: Membros da família 
+ASSUNTO: Anúncio de evento familiar 
+INTENÇÃO: Convite para participar do evento 
+OBJETIVO: Promover reunião familiar 
+TOM: Alegre e festivo 
+INFORMAÇÕES ADICIONAIS: Detalhes sobre o evento (data, local etc.)
+
+E-MAIL:
+
+----------
+
+Prezados membros da Família,
+
+É com muito entusiasmo que lhes convidamos para participar de um evento familiar.
+
+Está programado para acontecer no dia X, às Y, na localidade Z. Esta será a oportunidade perfeita para celebrarmos e nos aproximarmos enquanto família.
+
+Esperamos contar com a presença de todos, pois é muito importante que mantenhamos as raízes e a ligação que nos une.
+
+Esperamos que venham com um coração cheio de alegria e disposição para curtir o momento, lembrando-se que tudo que queremos é passar bons momentos juntos e reafirmar os laços de amor e cumplicidade que unem a todos.
+
+Até lá!
+
+Atenciosamente,
+Representante da família

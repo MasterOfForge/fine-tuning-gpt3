@@ -1,0 +1,6 @@
+De: Nome do Remetente
+Para: Nome do Destinatário
+Assunto: Solicitação de Informações Adicionais para Projeto
+Intenção: Gostariamos de coletar mais informações sobre o projeto
+Objetivo: Fornecer uma descrição detalhada dos itens solicitados
+Tom: Solicitação educada e amigável

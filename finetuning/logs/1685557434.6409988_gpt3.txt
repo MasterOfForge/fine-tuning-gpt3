@@ -1,0 +1,27 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+De: Nome da Empresa
+Para: Destinatários
+Assunto: Alterações nas políticas da empresa
+Intenção: Notificar os destinatários sobre as recentes mudanças nas políticas da empresa
+Objetivo: Fornecer informações detalhadas acerca das alterações
+Tom: Profissional e educado
+
+E-MAIL:
+
+----------
+
+Caro(a) [destinatário],
+
+A Nome da Empresa acaba de implementar alterações importantes nas suas políticas.
+
+Gostaríamos de lhe alertar para estas mudanças e de lhe fornecer informação detalhada acerca delas.
+
+Abaixo segue uma breve listagem das alterações feitas às políticas da empresa. [Listar as alterações aqui].
+
+Para qualquer informação adicional acerca destas alterações, por favor não hesite em contactar-nos.
+
+Com os melhores cumprimentos,
+
+Nome da Empresa

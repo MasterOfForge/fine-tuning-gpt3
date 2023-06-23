@@ -1,0 +1,31 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+De: 
+Para: 
+Assunto: Convite para participar de ações de caridade 
+Intenção: Convidar a participar em atividades de caridade 
+Objetivo: Apoiar pessoas necessitadas e contribuir para o bem-estar comum 
+Tom: Solicitação de participação com o espírito de doação
+
+E-MAIL:
+
+----------
+
+Assunto: Participe de ações de caridade para beneficiar pessoas necessitadas
+
+Prezado(a),
+
+Espero que este e-mail encontre você em excelente saúde. 
+
+Gostaríamos de convidá-lo a participar das nossas Ações de Caridade, que contribuem para o bem-estar comum. A sua participação permitirá que possamos apoiar pessoas em situação de necessidade, tanto financeira como também afetiva, tudo com o espírito de doação. 
+
+Estaremos felizes em tê-lo em nossas Ações de Caridade. Caso você não possa comparecer, sugerimos outras formas de contribuição, como doação de alimentos, produtos de higiene e roupas em bom estado. 
+
+Lembrando que os detalhes sobre esta importante causa podem ser encontrados através da meusite. 
+
+Estamos ansiosos para recebê-lo e contar com sua generosa colaboração. 
+
+Atenciosamente, 
+
+[Nome]

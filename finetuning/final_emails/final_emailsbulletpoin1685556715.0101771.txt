@@ -1,0 +1,10 @@
+DE: Nome do remetente 
+PARA: Lista de destinatários 
+ASSUNTO: Precisa de Ajuda para Organizar um Evento Familiar 
+INTENÇÃO: Obter ajuda para organizar um evento familiar 
+OBJETIVO:Organizar com sucesso o evento familiar 
+JABA: Gostaríamos de agradecê-los por sua ajuda 
+TOM: Agradável e pedindo gentilmente por ajuda
+
+EMAIL:
+

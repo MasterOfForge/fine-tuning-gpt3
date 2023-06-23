@@ -1,0 +1,14 @@
+De: Remetente 
+Para: Destinatário 
+Assunto: Agendamento de Reuniões 
+Intenção: Solicitar agendamento de reuniões 
+Objetivo: Estabelecer horários e datas das reuniões 
+Tom: Respeitoso e profissional
+
+EMAIL:
+
+else:
+        #Start session
+        gpt_completion('Ola')
+        #User respond to GPT
+        gpt_completion('Tudo bem ?')

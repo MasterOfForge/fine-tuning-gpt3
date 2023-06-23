@@ -1,0 +1,26 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+De: Nome do remetente
+Para: Destinatário 
+Assunto: Comemorando aniversários e datas importantes na família 
+Intenção: Celebrar todos os momentos felizes 
+Objetivo: Unir a família e promover alegria 
+Tom: Animado e alegre
+
+E-MAIL:
+
+----------
+
+Querida Família, 
+
+Cada aniversário e momento importante na nossa família nos ajuda a ficarmos conectados uns com os outros e nos lembram o quanto a nossa família é especial e o quanto nos amamos. É por isso que não podemos deixar essas ocasiões passarem desapercebidas! 
+
+Vamos nos juntar para celebrar a vida destas datas! Vamos usar a oportunidade para passar um tempo juntos, partilhar histórias inspiradoras, rir, jogar, dançar e celebrar de uma forma verdadeiramente especial. Vamos criar momentos memoráveis que possamos recordar com saudade no futuro. 
+
+Sintam-se livres para trazer algo para as celebrações, seja uma boa história ou até mesmo um belo presente! 
+
+Sejam todos muito bem-vindos e compartilhem desta alegria! 
+
+Com amor, 
+Nome do remetente

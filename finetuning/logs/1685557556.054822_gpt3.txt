@@ -1,0 +1,29 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: 
+PARA: 
+ASSUNTO: Compartilhamento de Links Interessantes
+INTENÇÕES: Compartilhar conteúdo rico relacionado ao trabalho
+OBJETIVOS: Incentivar a leitura de assuntos relacionados ao trabalho
+TOM: Oferecendo oportunidades para aprimorar o conhecimento 
+ESTRATÉGIAS: Sugerindo recursos úteis para aprimorar habilidades profissionais
+
+E-MAIL:
+
+----------
+
+Prezado(a): 
+
+Espero que você esteja se sentindo bem.
+
+Aproveitando nosso último encontro, estou compartilhando alguns links interessantes relacionados ao trabalho. A leitura destes conteúdos irá lhe oferecer oportunidades para aprimorar seu conhecimento sobre o tema e também incentivar a discussão a respeito dos assuntos pertinentes.
+
+Apresento-lhe alguns recursos úteis:
+
+[INSERIR LINKS]
+
+Espero que eles reflitam no seu trabalho diário.
+
+Atenciosamente,
+[NOME DA PESSOA]

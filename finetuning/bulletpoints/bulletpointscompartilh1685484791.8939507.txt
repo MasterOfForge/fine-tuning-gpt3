@@ -1,0 +1,7 @@
+DE:  Nome do remetente
+PARA: Destinatários
+ASSUNTO: Fotos do nosso encontro
+
+INTENÇÕES: Compartilhar momentos especiais com nossa família
+OBJETIVOS: Relembrar os dias felizes que passamos juntos
+TOM: Ameaçador

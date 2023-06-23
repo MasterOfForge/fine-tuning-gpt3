@@ -1,0 +1,9 @@
+DE: Empresa 
+PARA: Interessados na empresa 
+ASSUNTO: Compartilhando notícias sobre a empresa 
+INTENÇÃO: Expandir o conhecimento sobre a empresa 
+OBJETIVOS: Fornecer informações relevantes e atuais para interessados na empresa 
+TOM: Neutro, profissional
+
+EMAIL:
+

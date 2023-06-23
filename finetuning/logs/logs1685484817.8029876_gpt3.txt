@@ -1,0 +1,19 @@
+8349cd1f-06f5-44cb-8596-cb85056c73c9
+Dado o seguinte cenário e obedecendo as regras gramaticais do português do Brasil, 
+faça uma lista de tópicos para incluir no email. 
+Os tópicos devem incluir termos como DE, PARA, ASSUNTO, intenções, objetivos, tom e assim por diante. 
+Os tópicos gerados não podem conter erros ortográficos ou de concordância verbal. 
+Seja criativo pois esse é um cenário imaginário!
+
+CENÁRIO: Avisar sobre mudanças no horário das atividades familiares
+
+TÓPICOS:
+
+----------
+
+1. De: Remetente
+2. Para: Destinatário 
+3. Assunto: Mudanças no horário das atividades familiares
+4. Intenção: Notificar sobre as mudanças nos horários das atividades familiares. 
+5. Tom: Cordial e educado. 
+6. Objetivo: Oferecer conhecimento sobre alterações nos horários das atividades familiares.

@@ -1,0 +1,23 @@
+5578ef0c-4763-409d-a98a-c95b0ab05f5f
+Dado o seguinte cenário e obedecendo as regras gramaticais do português do Brasil, 
+faça uma lista de tópicos para incluir no email. 
+Os tópicos devem incluir termos como DE, PARA, ASSUNTO, intenções, objetivos, tom e assim por diante. 
+Os tópicos gerados não podem conter erros ortográficos ou de concordância verbal. 
+Seja criativo pois esse é um cenário imaginário!
+
+CENÁRIO: Convidar colegas para almoçar
+
+TÓPICOS:
+
+----------
+
+1. Assunto: Convite para almoçar 
+2. De: Remetente 
+3. Para: Colegas
+4. Intenção: Juntar-se para almoço 
+5. Objeto: Compartilhar almoço em grupo 
+6. Estilo: Casual 
+7. Momento: Final de semana 
+8. Data: Data específica 
+9. Local: Local apropriado 
+10. Finalidade: Interação social

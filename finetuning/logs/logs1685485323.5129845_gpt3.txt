@@ -1,0 +1,20 @@
+5ca02dea-9259-4525-ab48-cab9fe3008cd
+Dado o seguinte cenário e obedecendo as regras gramaticais do português do Brasil, 
+faça uma lista de tópicos para incluir no email. 
+Os tópicos devem incluir termos como DE, PARA, ASSUNTO, intenções, objetivos, tom e assim por diante. 
+Os tópicos gerados não podem conter erros ortográficos ou de concordância verbal. 
+Seja criativo pois esse é um cenário imaginário!
+
+CENÁRIO: Solicitar participação em pesquisas
+
+TÓPICOS:
+
+----------
+
+De: Nome e Identificação 
+Para: Destinatário
+Assunto: Convite para Participar de Pesquisas 
+Intenções: Explicar a importância e os benefícios da participação na pesquisa 
+Objetivos: Estimular a compreensão da pesquisa e instigar o interesse da participação 
+Tom: Respeitoso e encorajador
+Detalhes: Explorar os entrevistados sobre seus costumes e costumes de consumo

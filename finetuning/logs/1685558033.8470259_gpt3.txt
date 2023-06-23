@@ -1,0 +1,27 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+DE: Solicitante 
+PARA: Equipe Técnica
+ASSUNTO: Solicitação de Auxílio Técnico 
+INTENÇÃO: Solicitar ajuda para solução de problemas técnicos 
+OBJETIVO: Identificar e solucionar o problema com eficiência 
+TOM: Profissional e educado
+
+E-MAIL:
+
+----------
+
+Para: equipe.tecnica@empresa.com
+De: solicitante@empresa.com
+Assunto: Solicitação de auxílio técnico 
+
+Prezados,
+
+Meu nome é [INSERIR NOME], trabalho na empresa [INSERIR NOME DA EMPRESA] e estou enfrentando alguns problemas técnicos. Estou me comunicando com o objetivo de solicitar ajuda da equipe técnica.
+
+Agradeço se puderem me orientar sobre o que necessito para identificar e solucionar o problema com eficiência. 
+
+Muito obrigado pela ajuda, 
+
+[INSERIR NOME]

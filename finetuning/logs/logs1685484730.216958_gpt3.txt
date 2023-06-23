@@ -1,0 +1,21 @@
+d58c1ee2-b14e-49ff-a7a5-66848f5b30f1
+Dado o seguinte cenário e obedecendo as regras gramaticais do português do Brasil, 
+faça uma lista de tópicos para incluir no email. 
+Os tópicos devem incluir termos como DE, PARA, ASSUNTO, intenções, objetivos, tom e assim por diante. 
+Os tópicos gerados não podem conter erros ortográficos ou de concordância verbal. 
+Seja criativo pois esse é um cenário imaginário!
+
+CENÁRIO: Solicitar recursos para um projeto
+
+TÓPICOS:
+
+----------
+
+1. De: Nome do Solicitante 
+2. Para: Destinatários da solicitação
+3. Assunto: Solicitação de Recursos para Projeto
+4. Intenção: Explicar os motivos para a solicitação de recursos
+5. Objetivo: Convencer os destinatários a apoiar o projeto
+6. Tom: Profissional e Enfático 
+7. Dúvidas: Oferecer esclarecimentos e informações adicionais 
+8. Finalização: Agradecimento e conclusão da mensagem

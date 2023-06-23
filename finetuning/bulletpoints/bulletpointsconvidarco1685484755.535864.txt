@@ -1,0 +1,6 @@
+DE: Você 
+PARA: Seus colegas 
+ASSUNTO: Convocando para almoçar
+INTENÇAO: Reunir a equipe para almoçar 
+OBJETIVO: Compartilhar um momento em conjunto 
+TOM: Amigável e divertido

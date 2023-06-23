@@ -1,0 +1,19 @@
+7179f7bd-a342-4201-910b-6a301f4b48e3
+Dado o seguinte cenário e obedecendo as regras gramaticais do português do Brasil, 
+faça uma lista de tópicos para incluir no email. 
+Os tópicos devem incluir termos como DE, PARA, ASSUNTO, intenções, objetivos, tom e assim por diante. 
+Os tópicos gerados não podem conter erros ortográficos ou de concordância verbal. 
+Seja criativo pois esse é um cenário imaginário!
+
+CENÁRIO: Avisar sobre mudanças de prazos
+
+TÓPICOS:
+
+----------
+
+1. Assunto: Comunicado sobre mudança de prazos
+2. De: Equipe de Gerentes
+3. Para: Todos os Colaboradores
+4. Intenção: Aviso de mudança de prazos
+5. Objetivo: Informar sobre o novo cronograma de prazos
+6. Tom: Suave e educado

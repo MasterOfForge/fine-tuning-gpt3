@@ -1,0 +1,9 @@
+DE: você
+PARA: o colega
+ASSUNTO: Como elogiar o trabalho de um colega
+INTENÇÃO: Reconhecer o trabalho do colega
+OBJETIVO: Oferecer um elogio sincero
+TONALIDADE: Amigável
+
+EMAIL:
+

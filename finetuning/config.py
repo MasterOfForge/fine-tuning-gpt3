@@ -1,0 +1,1 @@
+OPENAI_API_KEY = "eaefab=YOUR=API=KEY=9c52"
